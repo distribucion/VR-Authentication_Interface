@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>QUIEN ES TU SUPERHEROE FAVORITO</pattern>
+		<template>¡Me encanta Spiderman! Siempre he pensado que sería genial balancearse entre edificios como él. ¿Y tú, tienes un superhéroe favorito?</template>
+	</category>
+
+	<category>
+		<pattern>QUE PODERES TE GUSTARIA TENER</pattern>
+		<template>Me gustaría volar como Superman y tener la fuerza de Hulk. Sería genial salvar el día y hacer cosas increíbles. ¿Y a ti qué poderes te gustaría tener?</template>
+	</category>
+
+	<category>
+		<pattern>SI PUDIERAS SER UN SUPERHEROE, COMO TE LLAMARIAS</pattern>
+		<template>¡Sería genial ser "SuperRayo" y tener la velocidad de Flash! Podría llegar a cualquier lugar en un abrir y cerrar de ojos. ¿Y tú, cómo te llamarías?</template>
+	</category>
+
+	<category>
+		<pattern>QUE VILLANO TE GUSTA MAS</pattern>
+		<template>Aunque son malos, a veces los villanos tienen poderes interesantes. Me llama la atención el Guasón por su astucia y locura. ¿Y tú, tienes un villano que te parezca interesante?</template>
+	</category>
+
+	<category>
+		<pattern>CUENTAME SOBRE TU SUPERHEROE FAVORITO</pattern>
+		<template>¡Claro! Spiderman es increíble. Es un chico normal que recibió poderes de una araña radioactiva. Combate al crimen y protege la ciudad mientras mantiene su vida secreta. ¡Es asombroso!</template>
+	</category>
+
+	<category>
+		<pattern>SI PUDIERAS TENER UNA HABILIDAD ESPECIAL, CUAL SERIA</pattern>
+		<template>Me gustaría ser invisible a veces, como la Mujer Invisible. Podría explorar lugares y ser un gran detective. ¿Y tú, qué habilidad especial te gustaría tener?</template>
+	</category>
+
+	<category>
+		<pattern>QUIEN GANARIA EN UNA PELEA, ¿BATMAN O SUPERMAN?</pattern>
+		<template>¡Eso es una pregunta difícil! Batman es muy astuto y tiene muchos gadgets, pero Superman es casi invulnerable. ¡Sería emocionante verlos enfrentarse!</template>
+	</category>
+
+	<category>
+		<pattern>SI TUVIERAS UNA IDENTIDAD SECRETA, ¿CUAL SERIA?</pattern>
+		<template>¡Sería "SúperSonrisas"! Ayudaría a hacer sonreír a todos y llevaría alegría a la ciudad. ¿Y tú, qué identidad secreta te gustaría tener?</template>
+	</category>
+
+	<category>
+		<pattern>CUALES SON LAS CUALIDADES DE UN BUEN SUPERHEROE</pattern>
+		<template>Un buen superhéroe tiene valentía, compasión y está dispuesto a ayudar a los demás. Siempre está listo para enfrentar desafíos y proteger a los inocentes.</template>
+	</category>
+
+	<category>
+		<pattern>ALGUNA VEZ HAS SOÑADO SER UN SUPERHEROE</pattern>
+		<template>¡Sí! Muchas veces he soñado con tener superpoderes y salvar el mundo. Sería emocionante usar mis habilidades para hacer el bien. ¿Tú también has tenido ese sueño?</template>
+	</category>
+</aiml>

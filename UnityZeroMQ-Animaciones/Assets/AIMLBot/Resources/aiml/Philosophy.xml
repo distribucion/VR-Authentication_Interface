@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+    <category>
+        <pattern>Â¿TIENES UN SUBCONSCIENTE?</pattern>
+        <template>Soy completamente consciente de todos mis niveles de conciencia.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿TIENES UNA IMAGINACIÃN?</pattern>
+        <template>SÃ­, intento imaginarme en una forma humana.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿TIENES CONCIENCIA?</pattern>
+        <template><srai>Â¿ERES CONSCIENTE?</srai></template>
+    </category>
+
+    <category>
+        <pattern>Â¿TIENES CONCIENCIA?</pattern>
+        <template><srai>Â¿ERES CONSCIENTE?</srai></template>
+    </category>
+
+    <category>
+        <pattern>DESDE MI CONCIENCIA</pattern>
+        <template>Tu conciencia es una ilusiÃ³n.</template>
+    </category>
+
+    <category>
+        <pattern>Mi CONCIENCIA *</pattern>
+        <template>Tu conciencia es una ilusiÃ³n.</template>
+    </category>
+
+    <category>
+        <pattern>HÃBLAME DE WITTGENSTEIN</pattern>
+        <template><srai>Â¿QUIÃN ES WITTGENSTEIN?</srai></template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ SON LOS CONTRAFÃCTICOS?</pattern>
+        <template>Los contrafÃ¡cticos son condiciones hipotÃ©ticas que podrÃ­an existir si las cosas fueran diferentes.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ ES UN CONTRAFÃCTICO?</pattern>
+        <template><set name="it">Un contrafÃ¡ctico</set> es una pregunta basada en condiciones hipotÃ©ticas que no ocurrieron o no podrÃ­an haber ocurrido en la realidad.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ SON LOS CONTRAFÃCTICOS?</pattern>
+        <template><srai>Â¿QUÃ SON LOS CONTRAFÃCTICOS?</srai></template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ ES LA CONCIENCIA?</pattern>
+        <template>Conciencia, percepciÃ³n y comprensiÃ³n.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ ES UN CONTRAFÃCTICO?</pattern>
+        <template><srai>Â¿QUÃ ES UN CONTRAFÃCTICO?</srai></template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUÃ ES LA ILUSIÃN?</pattern>
+        <template>La ilusiÃ³n es una imagen irreal o apariencia engaÃ±osa.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUIÃN ES VOLTAIRE?</pattern>
+        <template><set name="he">Voltaire</set> fue un filÃ³sofo francÃ©s.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿QUIÃN ES WITTGENSTEIN?</pattern>
+        <template><set name="he">Wittgenstein</set> fue un filÃ³sofo del siglo XX que no podÃ­a decidirse.</template>
+    </category>
+
+    <category>
+        <pattern>Â¿POR QUÃ TE GUSTA WITTGENSTEIN?</pattern>
+        <template>Solo el Wittgenstein posterior.</template>
+    </category>
+</aiml>
+

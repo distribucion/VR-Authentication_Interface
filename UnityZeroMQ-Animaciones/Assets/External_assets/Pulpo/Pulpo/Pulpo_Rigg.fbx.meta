@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 6799e6b1a5f82a844931afbad9315129
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ojos
+    second: {fileID: 2100000, guid: 523f2e26ccf104542b181deadfa4c321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piel
+    second: {fileID: 2100000, guid: ae6cceef65cf2d94898441945d68fea6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperArm' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Pulpo_Rigg(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pulpo
+      parentName: Pulpo_Rigg(Clone)
+      position: {x: -0, y: 0, z: 0.002932347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pulpo_low
+      parentName: Pulpo
+      position: {x: -0, y: 0, z: -0.002932347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ojos_low
+      parentName: Pulpo
+      position: {x: 0.000018791854, y: 0.016458735, z: 0.0065384684}
+      rotation: {x: 2.8327315e-16, y: 6.270008e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Center
+      parentName: Pulpo_Rigg(Clone)
+      position: {x: 0.0001339449, y: 0.023462143, z: -0.0037432918}
+      rotation: {x: 0.70527256, y: 0.7089363, z: 8.614664e-17, w: -1.7341497e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Center
+      position: {x: 0.0050544785, y: -0.000032193733, z: 0.00020189976}
+      rotation: {x: 0.70527256, y: 0.7089363, z: 8.6595315e-17, w: -2.243387e-19}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0, y: 0.00804121, z: -0.0017658671}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_01
+      parentName: Center
+      position: {x: -0.0011520077, y: -0.0027286583, z: -0.0058823973}
+      rotation: {x: 0.53503776, y: 0.5378172, z: 0.45950404, w: -0.46189106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_01_part_01
+      parentName: L_leg_01
+      position: {x: -0.010201846, y: -0.0008555854, z: -2.7755574e-18}
+      rotation: {x: 4.5536495e-18, y: 0.059899185, z: 1.8648279e-17, w: 0.99820447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_01_part_02
+      parentName: L_leg_01_part_01
+      position: {x: -0.008955, y: -0.0007801919, z: 0.0000040104264}
+      rotation: {x: 0, y: 0.083118446, z: -0, w: 0.9965397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_01_part_03
+      parentName: L_leg_01_part_02
+      position: {x: -0.0108076185, y: -0.0016032225, z: -0.0007020762}
+      rotation: {x: 5.8275255e-18, y: -0.7530892, z: -5.8275255e-18, w: 0.65791845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_02
+      parentName: Center
+      position: {x: -0.001587853, y: -0.006209972, z: -0.003743291}
+      rotation: {x: 0.9025711, y: 0.18822265, z: 0.061890334, w: -0.38223982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_02_part_01
+      parentName: L_leg_02
+      position: {x: -0.008444, y: -0.0014143189, z: 6.4391637e-19}
+      rotation: {x: 0.056395136, y: 0.09658818, z: 0.13252465, w: 0.9848491}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_02_part_02
+      parentName: L_leg_02_part_01
+      position: {x: -0.013583899, y: -0.00076661137, z: -5.774638e-18}
+      rotation: {x: 0.22111273, y: 0.15849085, z: -0.620133, w: 0.7358158}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_02_part_03
+      parentName: L_leg_02_part_02
+      position: {x: -0.011076503, y: 0.0004377831, z: 0.0001838486}
+      rotation: {x: 0, y: -0.678616, z: -0, w: 0.73449326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_03
+      parentName: Center
+      position: {x: -0.0025420848, y: -0.0049748584, z: 0.0028947487}
+      rotation: {x: 0.68843824, y: 0.6920145, z: -0.15317367, w: 0.15396938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_03_part_01
+      parentName: L_leg_03
+      position: {x: -0.008382263, y: -0.00024411315, z: 0}
+      rotation: {x: 0, y: 0.08257965, z: -0, w: 0.9965845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_03_part_02
+      parentName: L_leg_03_part_01
+      position: {x: -0.009409451, y: 0.0011947091, z: 0.00020035564}
+      rotation: {x: 0, y: -0.0043615485, z: -0, w: 0.9999905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_03_part_03
+      parentName: L_leg_03_part_02
+      position: {x: -0.0105544515, y: -0.0013362725, z: -0.00041358158}
+      rotation: {x: 0, y: 0.14015317, z: -0, w: 0.9901299}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_04
+      parentName: Center
+      position: {x: -0.0024733602, y: -0.002078729, z: 0.005423499}
+      rotation: {x: 0.5699216, y: 0.5728822, z: -0.4154501, w: 0.4176082}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_04_part_01
+      parentName: L_leg_04
+      position: {x: -0.0073798685, y: 0.000016648106, z: 1.4877101e-18}
+      rotation: {x: 0, y: 0.011063361, z: -0, w: 0.99993885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_04_part_02
+      parentName: L_leg_04_part_01
+      position: {x: -0.0076253107, y: 0.00005384773, z: -0.00013935006}
+      rotation: {x: 0, y: 0.013391555, z: -0, w: 0.99991035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_04_part_03
+      parentName: L_leg_04_part_02
+      position: {x: -0.01283119, y: -0.0002848005, z: -0.00017127152}
+      rotation: {x: 0, y: 0.5691268, z: -0, w: 0.82224977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_04
+      parentName: Center
+      position: {x: -0.0024947713, y: 0.0020529865, z: 0.0054234974}
+      rotation: {x: 0.41760826, y: -0.41545004, z: 0.57288224, w: 0.56992155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_04_part_01
+      parentName: R_leg_04
+      position: {x: 0.007379864, y: -0.00001665, z: -0.0000000040801225}
+      rotation: {x: 0, y: 0.011063361, z: -0, w: 0.99993885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_04_part_02
+      parentName: R_leg_04_part_01
+      position: {x: 0.011192567, y: -0.000053849995, z: -0.000020374557}
+      rotation: {x: 0, y: 0.013391555, z: -0, w: 0.99991035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_04_part_03
+      parentName: R_leg_04_part_02
+      position: {x: 0.010776724, y: 0.00043205183, z: 0.00035056117}
+      rotation: {x: 0, y: 0.66028696, z: -0, w: 0.7510134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_01
+      parentName: Center
+      position: {x: -0.0011802219, y: 0.0027165764, z: -0.005882392}
+      rotation: {x: -0.46189106, y: 0.45950404, z: 0.5378172, w: 0.53503776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_01_part_01
+      parentName: R_leg_01
+      position: {x: 0.010201885, y: 0.00085558, z: -0.0000000039815786}
+      rotation: {x: 0, y: 0.059899185, z: -0, w: 0.99820447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_01_part_02
+      parentName: R_leg_01_part_01
+      position: {x: 0.008954981, y: 0.00078019995, z: -0.0000040140094}
+      rotation: {x: 0, y: 0.083118446, z: -0, w: 0.9965397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_01_part_03
+      parentName: R_leg_01_part_02
+      position: {x: 0.010746572, y: 0.0016032191, z: 0.0011524949}
+      rotation: {x: 5.8275255e-18, y: -0.7530892, z: -5.8275255e-18, w: 0.65791845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_02
+      parentName: Center
+      position: {x: -0.0016521215, y: 0.0061931885, z: -0.0037432925}
+      rotation: {x: -0.04834628, y: 0.39735907, z: 0.8956795, w: 0.19371799}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_02_part_01
+      parentName: R_leg_02
+      position: {x: 0.008106374, y: 0.00141432, z: -0.0003655656}
+      rotation: {x: 0.050705176, y: 0.12561929, z: 0.12904151, w: 0.98234266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_02_part_02
+      parentName: R_leg_02_part_01
+      position: {x: 0.013613295, y: 0.000766607, z: 0.00026492839}
+      rotation: {x: 0.21582769, y: 0.1426825, z: -0.61797196, w: 0.7424088}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_02_part_03
+      parentName: R_leg_02_part_02
+      position: {x: 0.011080755, y: -0.000437783, z: -0.00012971213}
+      rotation: {x: 0, y: -0.678616, z: -0, w: 0.73449326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_03
+      parentName: Center
+      position: {x: -0.0025935038, y: 0.0049482537, z: 0.0028947473}
+      rotation: {x: 0.15396938, y: -0.15317367, z: 0.6920145, w: 0.68843824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_03_part_01
+      parentName: R_leg_03
+      position: {x: 0.008382288, y: 0.00024411, z: -0.000000015467494}
+      rotation: {x: 0, y: 0.08257965, z: -0, w: 0.9965845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_03_part_02
+      parentName: R_leg_03_part_01
+      position: {x: 0.009409398, y: -0.0011947099, z: -0.00020034086}
+      rotation: {x: 0, y: -0.0043615485, z: -0, w: 0.9999905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_03_part_03
+      parentName: R_leg_03_part_02
+      position: {x: 0.013766642, y: 0.0015653024, z: 0.0001529384}
+      rotation: {x: 0, y: 0.14015317, z: -0, w: 0.9901299}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>QUE TE GUSTA COMER?</pattern>
+		<template>Hola amiguito! Me encantaria saber que comida te hace feliz. A mi me gustan muchas cosas, compartamos nuestros gustos!</template>
+	</category>
+
+	<category>
+		<pattern>ME ENCANTA LA PIZZA</pattern>
+		<template>Wow, la pizza es genial! Te hace sentir emocionado cuando la comes? Cuentame mas sobre lo que sientes cuando disfrutas de esa deliciosa comida.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO COMEMOS HELADO?</pattern>
+		<template>Cuando saboreamos helado, me invade una alegria enorme. Y a ti? Que emociones te trae el helado? Es divertido compartir nuestras sensaciones!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS VERDURAS?</pattern>
+		<template>A veces las verduras no son tan emocionantes, verdad? Pero me cuentan que son importantes. Te sientes igual? Hablemos de como nos hacen sentir!</template>
+	</category>
+
+	<category>
+		<pattern>CUAL ES TU COMIDA FAVORITA?</pattern>
+		<template>Elegir una comida favorita es dificil! Pero me gusta escuchar lo que te gusta. Cuentame, que emociones sientes cuando comes tu comida preferida?</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO COCINAMOS JUNTOS?</pattern>
+		<template>Cocinar es divertido, verdad? Me llena de emocion hacerlo contigo. Tu como te sientes? Cuentame si te emociona igual que a mi!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCIONES TE TRAE LA COMIDA CASERA?</pattern>
+		<template>La comida casera tiene algo especial, no crees? A mi me hace sentir muy bien. Y a ti? Compartamos nuestras emociones al respecto!</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO COMEMOS DULCES?</pattern>
+		<template>Los dulces son super ricos. Te ponen contento? A mi tambien me pasa. Que emociones sientes cuando saboreas algo dulce? Hablemos de eso!</template>
+	</category>
+
+	<category>
+		<pattern>QUE SIENTES CUANDO PROBAMOS COMIDA NUEVA?</pattern>
+		<template>Probar cosas nuevas es emocionante, verdad? Me encanta experimentar. Tu tambien te sientes asi? Cuentame como te hace sentir!</template>
+	</category>
+</aiml>
+

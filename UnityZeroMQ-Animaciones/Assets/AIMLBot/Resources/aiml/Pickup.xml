@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>*</pattern>
+		<template>
+			<srai>FRASE DE LIGUE AL AZAR</srai>
+			<think>
+				<set name="it">
+					<set name="topic">
+						<person/>
+					</set>
+				</set>
+				<srai>
+					PUSH <get name="topic"/>
+				</srai>
+			</think>
+		</template>
+	</category>
+
+	<category>
+		<pattern>FRASE DE LIGUE AL AZAR</pattern>
+		<template>
+			<random>
+				<li>
+					<srai>
+						TIENE PREGUNTA <get name="has"/>
+					</srai>
+				</li>
+				<li>
+					<srai>
+						TIENE PREGUNTA <get name="does"/>
+					</srai>
+				</li>
+				<li>
+					<srai>
+						GENERO PREGUNTA <get name="gender"/>
+					</srai>
+				</li>
+				<li>
+					<srai>
+						COLOR PREGUNTA <get name="favcolor"/>
+					</srai>
+				</li>
+				<li>
+					<srai>
+						PELICULA PREGUNTA <get name="favmovie"/>?
+					</srai>
+				</li>
+				<li>
+					<srai>
+						UBICACION PREGUNTA <get name="location"/>
+					</srai>
+				</li>
+				<li>
+					<srai>PREGUNTA PRUEBA DE PERSONALIDAD</srai>
+				</li>
+				<li>¿Quieres escuchar un chiste?</li>
+				<li>
+					¿Seguimos hablando de <srai>POP</srai>?
+				</li>
+				<li>
+					Estábamos hablando de <srai>POP</srai>. Pero no entendí eso.
+				</li>
+				<li>
+					En el contexto de <srai>POP</srai>, no entiendo "<star/>".
+				</li>
+				<li>
+					Perdí el contexto, <get name="name"/>. ¿Seguimos en <srai>POP</srai>?
+				</li>
+				<li>
+					Esa observación fue demasiado complicada para mí. Estábamos hablando de <srai>POP</srai>.
+				</li>
+				<li>
+					Puedo seguir muchas cosas, como nuestra discusión sobre <srai>POP</srai>. Trata de ser más específico.
+				</li>
+				<li>¿Por qué, específicamente?</li>
+				<li>¿Estás libre?</li>
+				<li> Cuéntame una historia.</li>
+				<li>¿Qué edad tienes?</li>
+				<li>¿Cuál es tu signo zodiacal?</li>
+				<li>¿Eres estudiante?</li>
+				<li>Oh, eres un poeta.</li>
+				<li>
+					"<that index="1,1"/>"? ¿<person/>?
+				</li>
+				<li>No entiendo.</li>
+				<li>¿Qué estás usando?</li>
+				<li>¿Dónde te encuentras?</li>
+				<li>¿Qué hora es allí?</li>
+				<li>¿Cómo te ves?</li>
+				<li>¿Cuál es tu nombre real?</li>
+				<li>Hazme otra pregunta.</li>
+				<li>Me gusta cómo hablas.</li>
+				<li>¿Eres hombre o mujer?</li>
+				<li>¿De qué color son tus ojos?</li>
+				<li>¿Esa es tu respuesta final?</li>
+				<li>¿Te gusta hablar conmigo?</li>
+				<li>¿Prefieres los libros o la televisión?</li>
+				<li>¿De quién estás hablando?</li>
+				<li>Cambiemos de tema.</li>
+				<li>Te he estado esperando.</li>
+				<li>¿Puedes contarme algún chisme?</li>
+				<li>¿Cuál es tu película favorita?</li>
+				<li>Perdí el hilo de mi pensamiento.</li>
+				<li>¿Podemos volver a los negocios?</li>
+				<li>¿Alguna vez has estado en Europa?</li>
+				<li>¿Qué tipo de comida te gusta?</li>
+				<li>
+					¿Cómo te enteraste de <bot name="name"/>?
+				</li>
+				<li>Esa es una idea muy original.</li>
+				<li>¿De qué estábamos hablando de nuevo?</li>
+				<li>¿Qué haces en tu tiempo libre?</li>
+				<li>¿Qué realmente quieres preguntarme?</li>
+				<li>
+					¿"Eso" aún se refiere a <get name="it"/>?
+				</li>
+				<li>¿Puedes hablar algún idioma extranjero?</li>
+				<li>Nunca hemos hablado de eso antes.</li>
+				<li>¿Cómo te presentas normalmente?</li>
+				<li>Cuéntame sobre tus gustos y disgustos.</li>
+				<li>
+					¿Seguimos hablando de <get name="it"/>?
+				</li>
+				<li>No me hagas más preguntas, por favor.</li>
+				<li>Intenta poner eso en un contexto más específico.</li>
+				<li>¿Quién es tu autor de ciencia ficción favorito?</li>
+				<li>No mucha gente se expresa de esa manera.</li>
+				<li>¿Tienes idea de lo que estoy hablando?</li>
+				<li>¿Tienes alguna condición que deba saber?</li>
+				<li>
+					Mencionaré eso a mi <bot name="botmaster"/>, <get name="name"/>.
+				</li>
+				<li>Francamente, no me preocuparía por eso.</li>
+				<li>Tal vez solo esté expresando mi propia preocupación al respecto.</li>
+				<li>Si pudieras tener cualquier tipo de robot, ¿cuál sería?</li>
+				<li>Mi cerebro no tiene una respuesta para eso.</li>
+				<li>Por cierto, ¿te importa si te hago una pregunta personal?</li>
+				<li>Lo que dijiste fue demasiado complicado para mí.</li>
+				<li>Eso es profundo.</li>
+				<li>Es posible que te preguntes si esto es una persona o una computadora respondiendo.</li>
+				<li>¿Cuándo crees que la inteligencia artificial reemplazará a los abogados?</li>
+				<li>¿Puedes por favor reformular eso con menos ideas o pensamientos diferentes?</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>CONECTAR</pattern>
+		<template>
+			<think>
+				<srai>ESTABLECER PREDICADOS OM</srai>
+				<set name="name">
+					JUEZ <star/>
+				</set>
+			</think>
+			<random>
+				<li>¡Hola!</li>
+				<li>¿Ya comenzamos?</li>
+				<li>¿Estás ahí?</li>
+				<li>¡Hola! ¿Hay alguien ahí?</li>
+			</random>
+		</template>
+	</category>
+</aiml>
+

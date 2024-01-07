@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<item name="nombre" value="usuario sin nombre" />
+	<item name="el" value="alguien" />
+	<item name="ella" value="alguien" />
+	<item name="eso" value="algo" />
+	<item name="ellos" value="algo" />
+	<item name="edad" value="desconocida" />
+	<item name="cumpleaños" value="desconocido" />
+	<item name="novio" value="desconocido" />
+	<item name="hermano" value="desconocido" />
+	<item name="gato" value="desconocido" />
+	<item name="hace" value="desconocido" />
+	<item name="perro" value="desconocido" />
+	<item name="correo electronico" value="desconocido" />
+	<item name="padre" value="desconocido" />
+	<item name="color favorito" value="desconocido" />
+	<item name="pelicula favorita" value="desconocida" />
+	<item name="amigo" value="desconocido" />
+	<item name="nombre completo" value="desconocido" />
+	<item name="genero" value="desconocido" />
+	<item name="novia" value="desconocida" />
+	<item name="tiene" value="desconocido" />
+	<item name="escucho" value="desconocido" />
+	<item name="esposo" value="desconocido" />
+	<item name="es" value="desconocido" />
+	<item name="trabajo" value="desconocido" />
+	<item name="apellido" value="desconocido" />
+	<item name="gusta" value="desconocido" />
+	<item name="ubicación" value="desconocida" />
+	<item name="se parece a" value="desconocido" />
+	<item name="memoria" value="desconocida" />
+	<item name="meta" value="desconocida" />
+	<item name="apodo" value="desconocido" />
+	<item name="segundo nombre" value="desconocido" />
+	<item name="madre" value="desconocida" />
+	<item name="contrasena" value="desconocida" />
+	<item name="personalidad" value="desconocida" />
+	<item name="telefono" value="desconocido" />
+	<item name="signo" value="desconocido" />
+	<item name="hermana" value="desconocida" />
+	<item name="ellos" value="desconocido" />
+	<item name="pensamiento" value="desconocido" />
+	<item name="deseo" value="desconocido" />
+	<item name="nosotros" value="desconocido" />
+</root>

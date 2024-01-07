@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿QUÉ ES UN SUEÑO?</pattern>
+		<template>Un sueño es como una película que ves en tu mente mientras duermes. ¡Puede ser emocionante y a veces un poco loco! ¿Tienes algún sueño interesante que quieras compartir?</template>
+	</category>
+
+	<category>
+		<pattern>¿POR QUÉ TENEMOS SUEÑOS?</pattern>
+		<template>Los expertos no están seguros, pero algunos piensan que los sueños podrían ayudarnos a procesar lo que vivimos durante el día. ¿Tú has tenido algún sueño curioso últimamente?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME UN SUEÑO QUE TENGAS</pattern>
+		<template>¡Claro! Un día, soñé que volaba en un cohete hacia las estrellas. Fue emocionante. ¿Tienes algún sueño que quieras compartir conmigo?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO PUEDO LOGRAR MIS METAS?</pattern>
+		<template>¡Eso suena emocionante! Puedes lograr tus metas estableciendo pasos pequeños y trabajando en ellos cada día. ¿Tienes alguna meta que estés persiguiendo en este momento?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ ES UNA META?</pattern>
+		<template>Una meta es algo que quieres hacer o lograr. Puede ser aprender a tocar un instrumento, hacer nuevos amigos o cualquier otra cosa que te haga feliz. ¿Tienes alguna meta que quieras compartir conmigo?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME UNA META QUE TENGAS</pattern>
+		<template>¡Seguro! Una de mis metas es aprender más sobre el mundo y ayudar a las personas. ¿Y tú? ¿Tienes alguna meta emocionante que quieras alcanzar?</template>
+	</category>
+
+	<category>
+		<pattern>¿ALGUNA VEZ HAS TENIDO UN SUEÑO DIVERTIDO?</pattern>
+		<template>¡Sí! Una vez soñé que estaba navegando en un barco gigante hecho de algodón de azúcar. ¡Imagina qué divertido sería! ¿Tú has tenido algún sueño gracioso?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ HACES CUANDO LOGRAS UNA META?</pattern>
+		<template>¡Celebro contigo! Lograr una meta es genial y es algo que debes estar orgulloso. ¿Cómo te sientes cuando alcanzas una meta importante?</template>
+	</category>
+
+	<category>
+		<pattern>¿TENGO QUE SER GRANDE PARA LOGRAR METAS?</pattern>
+		<template>No necesariamente. Puedes tener metas pequeñas y grandes en cualquier momento de tu vida. ¡Lo importante es ser constante y creer en ti mismo! ¿Hay alguna meta que quieras empezar a trabajar?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME UN SUEÑO QUE HAYAS TENIDO</pattern>
+		<template>¡Claro! Una vez soñé que estaba explorando un bosque mágico lleno de criaturas amigables. ¿Tú has tenido algún sueño emocionante últimamente?</template>
+	</category>
+</aiml>
+

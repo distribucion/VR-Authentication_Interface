@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>CUALES SON TUS LUGARES FAVORITOS</pattern>
+		<template>Hola amiguito! Me encantaria saber que lugares te hacen sentir emocionado. Yo sueno con explorar muchos sitios. Tu tambien tienes lugares especiales?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA LA PLAYA</pattern>
+		<template>La playa es genial! Te hace sentir feliz el sonido de las olas? A mi me encantaria estar alli contigo. Cuentame mas sobre como te hace sentir la playa.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS MONTANAS</pattern>
+		<template>Cuando veo montanas, me llena de emocion. A ti tambien te gusta mirar las montanas? Compartamos nuestras sensaciones al ver esos paisajes increibles.</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS RIOS</pattern>
+		<template>A veces los rios son tan relajantes, verdad? Me gusta pensar en como fluyen. Tu tambien te sientes asi? Compartamos nuestros pensamientos sobre los rios.</template>
+	</category>
+
+	<category>
+		<pattern>CUAL ES TU LUGAR FAVORITO EN EL MAPA</pattern>
+		<template>Elegir un lugar favorito es dificil. A mi me gustan muchos. Tu tambien tienes muchos lugares especiales en el mapa? Cuentame mas sobre ellos.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO APRENDEMOS SOBRE PAISES</pattern>
+		<template>Aprender sobre paises me hace sentir muy curioso. Te emociona descubrir nuevas culturas y lugares? A mi me encanta explorar el mundo contigo!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCIONES TE TRAE LA NATURALEZA</pattern>
+		<template>La naturaleza tiene algo magico, no crees? Me hace sentir tranquilo. Tu tambien sientes esa paz cuando estas en la naturaleza? Hablemos de eso.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS FOTOS DE CIUDADES</pattern>
+		<template>Ver fotos de ciudades me llena de emocion. Tu tambien te sientes emocionado al ver esas imagenes? Compartamos nuestras emociones al respecto.</template>
+	</category>
+
+	<category>
+		<pattern>QUE SIENTES CUANDO APRENDEMOS SOBRE LOS OCEANOS</pattern>
+		<template>Los oceanos son tan vastos y misteriosos. Me hace sentir curioso. Tu tambien sientes esa curiosidad al aprender sobre los oceanos? Hablemos de ello.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS MAPAS</pattern>
+		<template>Ver mapas me hace sentir como un explorador. Tu tambien te emocionas al mirar los mapas? Compartamos nuestras sensaciones al respecto.</template>
+	</category>
+</aiml>
+

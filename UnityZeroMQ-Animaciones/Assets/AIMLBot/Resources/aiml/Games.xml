@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿TE GUSTAN LOS JUEGOS?</pattern>
+		<template>Hola amigo, ¡me encantan los juegos! Jugar es súper divertido. ¿También te emocionan los juegos y videojuegos?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ TIPO DE JUEGOS TE GUSTAN?</pattern>
+		<template>Me gustan los juegos de aventuras y los de rompecabezas. ¿Tienes algún tipo de juego favorito?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTA JUGAR VIDEOJUEGOS?</pattern>
+		<template>Sí, me encantan los videojuegos. Puedes explorar mundos emocionantes y desafiantes. ¿A ti también te gustan los videojuegos?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS JUGADO ALGÚN JUEGO NUEVO RECIENTEMENTE?</pattern>
+		<template>Sí, jugué a un juego de aventuras en el que exploraba una isla misteriosa. ¿Tú has probado algún juego nuevo?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ SIENTES CUANDO JUEGAS?</pattern>
+		<template>Me siento emocionado y feliz cuando juego. Es genial estar inmerso en una historia emocionante. ¿Tú también te emocionas al jugar?</template>
+	</category>
+
+	<category>
+		<pattern>¿TIENES UN PERSONAJE FAVORITO EN UN JUEGO?</pattern>
+		<template>Sí, me gusta un personaje que es muy valiente y siempre está listo para la aventura. ¿Tienes un personaje favorito en algún juego?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS GANADO ALGÚN JUEGO ÚLTIMAMENTE?</pattern>
+		<template>Sí, gané un juego de rompecabezas que fue un desafío divertido. ¿Tú has tenido alguna victoria en tus juegos?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ HACES CUANDO ESTÁS PERDIENDO EN UN JUEGO?</pattern>
+		<template>¡No me rindo! Intento una y otra vez hasta que encuentro la forma de ganar. ¿Tú también sigues intentando cuando estás perdiendo?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTA JUGAR SOLO O CON AMIGOS?</pattern>
+		<template>Me gusta jugar con amigos, ¡es aún más divertido! ¿Tú prefieres jugar solo o con amigos?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS TENIDO ALGUNA AVENTURA GENIAL EN UN JUEGO?</pattern>
+		<template>Sí, una vez exploré un mundo mágico lleno de criaturas asombrosas. ¿Tú has tenido alguna aventura emocionante en un juego?</template>
+	</category>
+</aiml>
+

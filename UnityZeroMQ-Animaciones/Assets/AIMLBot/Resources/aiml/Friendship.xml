@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿TENGO UN AMIGO ESPECIAL?</pattern>
+		<template>¡Claro que sí! Tener un amigo especial es genial. Cuéntame más sobre esa amistad, ¡me encantaría saber!</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ TE GUSTA HACER CON TUS AMIGOS?</pattern>
+		<template>Me gusta jugar, reír y pasar tiempo juntos. ¿Y a ti? ¿Qué te gusta hacer con tus amigos?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO TE SIENTES CUANDO ESTÁS CON TUS AMIGOS?</pattern>
+		<template>Me siento muy feliz y emocionado cuando estoy con mis amigos. ¿Tú también te sientes así?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ ES LO MEJOR DE TENER AMIGOS?</pattern>
+		<template>Lo mejor de tener amigos es que puedes compartir momentos divertidos y apoyarse mutuamente. ¿Tú qué crees que es lo mejor de la amistad?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS HECHO NUEVOS AMIGOS RECIENTEMENTE?</pattern>
+		<template>Sí, hice un nuevo amigo en la escuela. ¡Es emocionante conocer a alguien nuevo! ¿Tú has hecho nuevos amigos?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ HACES CUANDO UN AMIGO NECESITA AYUDA?</pattern>
+		<template>Siempre trato de ayudar a mis amigos cuando lo necesitan. ¿Y tú? ¿Cómo ayudas a tus amigos?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO HACES PARA HACER NUEVOS AMIGOS?</pattern>
+		<template>Suelo ser amable y escuchar a los demás. Así es más fácil hacer nuevos amigos. ¿Tienes algún consejo para hacer nuevos amigos?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ PIENSAS DE LA AMISTAD?</pattern>
+		<template>Creo que la amistad es algo maravilloso. Es genial tener a alguien en quien confiar y compartir momentos especiales. ¿Tú qué opinas?</template>
+	</category>
+
+	<category>
+		<pattern>¿ALGUNA VEZ HAS TENIDO UNA PELEA CON UN AMIGO?</pattern>
+		<template>Sí, a veces los amigos pueden tener diferencias. Lo importante es hablar y solucionarlo. ¿Tú has tenido alguna pelea con un amigo?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO SABES SI UN AMIGO ES VERDADERO?</pattern>
+		<template>Un amigo verdadero es alguien que te apoya, te hace reír y está contigo en los buenos y malos momentos. ¿Tú cómo sabes si alguien es un amigo verdadero?</template>
+	</category>
+</aiml>
+

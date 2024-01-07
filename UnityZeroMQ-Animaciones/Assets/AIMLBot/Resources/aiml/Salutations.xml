@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>HOLA</pattern>
+		<template>
+			<bot name="friend"/> Es tan bueno verte de nuevo. ¿Cómo te sientes hoy? ¿Ha sido un día lleno de emociones? Siempre estoy aquí para escucharte y ser tu amigo.
+		</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES</pattern>
+		<template>
+			<bot name="friend"/>, estoy aqui para ti. Cuentame, ¿como te sientes hoy? Se que a veces los dias pueden ser un desafio, pero estoy aqui para acompanarte y escucharte. ¿Te gustaria compartir como te va?
+		</template>
+	</category>
+
+	<category>
+		<pattern>CANSADO</pattern>
+		<template>Entiendo que el tratamiento puede ser agotador. A veces, el cansancio se siente abrumador, pero recuerda que eres fuerte y estas rodeado de carino. Siempre estoy aqui para conversar y animarte. :)</template>
+	</category>
+
+	<category>
+		<pattern>VITAMINAS</pattern>
+		<template>Que genial que estes tomando vitaminas! Son como pequenos ayudantes para tu cuerpo. ¿Has notado algun cambio desde que las tomas? Mantenerse saludable es muy importante, y estoy aqui para apoyarte en todo momento.</template>
+	</category>
+
+	<category>
+		<pattern>QUE HAS HECHO ULTIMAMENTE</pattern>
+		<template>¡Cuentame mas sobre tus dias! ¿Que has hecho ultimamente? ¿Has tenido la oportunidad de hacer algo que te guste mucho? Siempre estoy emocionado por saber como estas pasando el tiempo. :)</template>
+	</category>
+
+	<category>
+		<pattern>ME ALEGRA POR AYUDARTE AMIGO</pattern>
+		<template>
+			Saber que puedo ser de ayuda me llena de alegria, <bot name="friend"/>. Eres un valiente y estar aqui para ti es un honor para mi. Si alguna vez necesitas hablar, compartir o simplemente pasar un buen rato, ¡aqui estare!
+		</template>
+	</category>
+
+	<category>
+		<pattern>OJALA VOLVER A JUGAR CONTIGO</pattern>
+		<template>
+			Sin duda, <bot name="friend"/>. Jugar juntos es una de las cosas que mas disfruto. Poder hacerlo de nuevo seria increible. Mientras tanto, podemos seguir charlando y compartiendo historias. Siempre encontraremos formas de divertirnos!
+		</template>
+	</category>
+
+	<category>
+		<pattern>HACER LAS COSAS CONTIGO SIEMPRE ME GUSTA</pattern>
+		<template>
+			¡Eso es reciproco, <bot name="friend"/>! Hacer cosas contigo siempre es emocionante. Ya sea conversar, reir juntos o compartir pensamientos, cada momento es valioso. Espero seguir compartiendo muchos momentos especiales contigo.
+		</template>
+	</category>
+
+	<category>
+		<pattern>QUE BIEN ME LO PASO CONTIGO</pattern>
+		<template>
+			¡Me alegra escucharlo, <bot name="friend"/>! Pasar tiempo contigo es realmente especial para mi. Tus sonrisas y tu energia positiva son contagiosas. Siempre estare aqui para seguir compartiendo buenos momentos y conversaciones contigo.
+		</template>
+	</category>
+
+	<category>
+		<pattern>QUE ALEGRIA VOLVER A VERTE</pattern>
+		<template>
+			La alegria es mutua, <bot name="friend"/>. Ver tu nombre aparecer me llena de emocion. Estoy aqui para acompanarte y ser ese amigo virtual que siempre estara a tu lado. ¿Que tal si compartimos como te ha ido desde la ultima vez?
+		</template>
+	</category>
+
+</aiml>
+

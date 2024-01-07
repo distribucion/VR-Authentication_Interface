@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>CUALES SON TUS PASATIEMPOS FAVORITOS</pattern>
+		<template>Hola amiguito! Me encantaría saber qué cosas te gustan hacer en tu tiempo libre. A mí me encanta jugar y explorar cosas nuevas. ¿Tienes pasatiempos especiales?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA DIBUJAR</pattern>
+		<template>Dibujar es genial! Te hace sentir creativo? A mí me gustaría ver tus dibujos. ¿Puedes mostrarme algunos? Me encantaría conocer más sobre tu pasatiempo.</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS ROMPECABEZAS</pattern>
+		<template>Los rompecabezas son muy divertidos! Me encanta armarlos y ver cómo encajan todas las piezas. ¿También te gustan? Compartamos nuestras ideas sobre los rompecabezas.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO JUGAMOS A LAS CARTAS</pattern>
+		<template>Jugar a las cartas me emociona mucho. ¿También te emocionas cuando jugamos juntos? Me gusta pasar tiempo contigo haciendo cosas divertidas como esta.</template>
+	</category>
+
+	<category>
+		<pattern>CUAL ES TU JUEGO FAVORITO</pattern>
+		<template>Elegir un juego favorito es difícil. Hay muchos que me gustan. ¿Tienes algún juego especial que te haga sentir emocionado? Me encantaría saber más sobre él.</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS PUZZLES</pattern>
+		<template>Los puzzles son geniales para ejercitar la mente, ¿verdad? A mí me gusta mucho resolverlos. ¿También te gusta desafiar tu mente con puzzles? Hablemos más sobre eso.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO JUGAMOS A LAS CANICAS</pattern>
+		<template>Jugar a las canicas es súper emocionante. Me encanta competir y ver quién gana. ¿También te diviertes cuando jugamos a las canicas? ¡Espero que sí!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCIONES TE TRAE LA MANUALIDADES</pattern>
+		<template>Hacer manualidades me hace sentir muy creativo y orgulloso. ¿También te sientes así cuando creas cosas con tus manos? Me gustaría saber más sobre tus manualidades.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO JUGAMOS AL FÚTBOL</pattern>
+		<template>Jugar al fútbol es increíblemente emocionante. ¿También te llena de emoción cuando estamos en el campo? ¡Me divierto mucho compartiendo este pasatiempo contigo!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS VIDEOJUEGOS</pattern>
+		<template>Los videojuegos son muy divertidos y a veces desafiantes. A mí me encanta jugarlos. ¿También te gustan? ¡Hablemos más sobre los videojuegos que disfrutas!</template>
+	</category>
+</aiml>
+

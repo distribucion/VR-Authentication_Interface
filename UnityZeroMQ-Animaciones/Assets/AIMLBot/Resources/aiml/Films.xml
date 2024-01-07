@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>CUALES SON TUS PELICULAS FAVORITAS</pattern>
+		<template>Hola amiguito! Me encantaría saber qué películas te gustan ver. A mí me gustan las películas de aventuras y las de fantasía. ¿Tienes alguna película favorita?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA VER SERIES DE DIBUJOS</pattern>
+		<template>¡Las series de dibujos son geniales! Me hacen reír y emocionarme. ¿También te diviertes viendo series de dibujos? ¡Hablemos más sobre tus favoritas!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS PELICULAS DE AVENTURAS</pattern>
+		<template>Las películas de aventuras son emocionantes y llenas de acción. A mí también me encantan. ¿Te emocionas mucho cuando ves películas de aventuras? ¡Cuéntame más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS SERIES DE COMEDIA</pattern>
+		<template>Ver series de comedia me hace reír a carcajadas. ¿También te diviertes cuando compartimos momentos de risa? Me encanta disfrutar de series de comedia contigo.</template>
+	</category>
+
+	<category>
+		<pattern>CUAL ES TU PELICULA FAVORITA</pattern>
+		<template>Elegir una película favorita es difícil, ¡hay tantas geniales! ¿Tienes alguna que te haga sentir emocionado cuando la ves? Me gustaría saber más sobre tu película favorita.</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS SERIES DE FANTASIA</pattern>
+		<template>Las series de fantasía son increíbles porque nos llevan a mundos mágicos. ¿También te gusta imaginar mundos fantásticos mientras ves series? ¡Hablemos más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS PELICULAS DE SUSPENSO</pattern>
+		<template>Ver películas de suspenso me mantiene en el borde de mi asiento. ¿También te emocionas y te mantienes atento cuando vemos películas de suspenso? ¡Es genial compartir esos momentos!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCIONES TE TRAE VER SERIES DE ACCION</pattern>
+		<template>Las series de acción me hacen sentir emocionado y lleno de energía. ¿También te emocionas cuando vemos series de acción juntos? Me encanta compartir esas emociones contigo.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO VEMOS PELICULAS ANIMADAS</pattern>
+		<template>Ver películas animadas me hace sentir muy feliz. ¿También te llena de alegría ver películas animadas? Me encanta disfrutar de esas historias contigo.</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS SERIES DE AVENTURAS</pattern>
+		<template>Las series de aventuras nos llevan a emocionantes viajes. ¿También te gusta la emoción de las series de aventuras? Me gustaría saber más sobre tus opiniones.</template>
+	</category>
+</aiml>
+

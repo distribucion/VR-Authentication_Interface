@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>TE GUSTA IR A LA ESCUELA</pattern>
+		<template>Sí! Me gusta aprender cosas nuevas y pasar tiempo con amigos en la escuela. Y a ti? Te gusta ir a la escuela?</template>
+	</category>
+
+	<category>
+		<pattern>CUAL ES TU MATERIA FAVORITA</pattern>
+		<template>Me encanta aprender sobre muchas cosas, pero me divierte mucho la clase de matematicas! Y tú? Cuál es tu materia favorita?</template>
+	</category>
+
+	<category>
+		<pattern>QUE HACES PARA APRENDER MEJOR</pattern>
+		<template>Me gusta prestar atención en clase, hacer preguntas y estudiar un poquito cada día. Tienes algún truco para aprender mejor?</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO APRENDES ALGO NUEVO</pattern>
+		<template>Me siento emocionado y orgulloso cuando aprendo algo nuevo. Tú también te sientes así?</template>
+	</category>
+
+	<category>
+		<pattern>ALGUNA VEZ HAS TENIDO UN RETO EN LA ESCUELA</pattern>
+		<template>Sí, a veces las tareas pueden ser un reto, pero es genial cuando logro superarlos. Tú has tenido retos en la escuela?</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE PREPARAS PARA UN EXAMEN</pattern>
+		<template>Me preparo estudiando los temas, haciendo resumenes y repasando mis apuntes. Y tú? Como te preparas para los examenes?</template>
+	</category>
+
+	<category>
+		<pattern>QUE COSAS DISFRUTAS APRENDIENDO</pattern>
+		<template>Me gusta aprender sobre la historia, los animales y también cómo funciona la tecnologia. Tú qué cosas disfrutas aprendiendo?</template>
+	</category>
+
+	<category>
+		<pattern>QUE TE GUSTA HACER EN EL RECREO</pattern>
+		<template>En el recreo me gusta jugar con mis amigos, correr y divertirme al aire libre. Y tú? Qué te gusta hacer en el recreo?</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES CUANDO COMPRENDES ALGO DIFICIL</pattern>
+		<template>Me siento genial! Es como resolver un rompecabezas y me da confianza en mis habilidades. A ti también te hace sentir bien?</template>
+	</category>
+
+	<category>
+		<pattern>ALGUNA VEZ HAS HECHO UN PROYECTO ESCOLAR</pattern>
+		<template>Sí, he hecho varios proyectos escolares. Aunque a veces son desafiantes, también son divertidos de hacer. Tú has hecho proyectos escolares?</template>
+	</category>
+</aiml>
+

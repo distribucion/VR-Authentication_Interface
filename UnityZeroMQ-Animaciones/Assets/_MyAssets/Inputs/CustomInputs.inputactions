@@ -1,0 +1,34 @@
+{
+    "name": "CustomInputs",
+    "maps": [
+        {
+            "name": "LocomotionSwitcher",
+            "id": "2e26fd50-a8ae-4988-b58d-4b1d5739d9b2",
+            "actions": [
+                {
+                    "name": "Switcher",
+                    "type": "Button",
+                    "id": "84624850-f5d0-4a15-bfec-3e36cd25bd77",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d6cb9c14-968a-4c02-8a6a-fdad37e3284b",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switcher",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>OBTENER PREDICADOS</pattern>
+		<template>
+			Edad: <get name="age"/>,
+			Cumpleaños: <get name="birthday"/>,
+			Novio: <get name="boyfriend"/>,
+			Hermano: <get name="brother"/>,
+			Gato: <get name="cat"/>,
+			Hace: <get name="does"/>,
+			Perro: <get name="dog"/>,
+			Correo electrónico: <get name="email"/>,
+			Padre: <get name="father"/>,
+			Color favorito:  <get name="favcolor"/>,
+			Película favorita: <get name="favmovie"/>,
+			Amigo: <get name="friend"/>,
+			Nombre completo: <get name="fullname"/>,
+			Género: <get name="gender"/>,
+			Novia: <get name="girlfriend"/>,
+			Tiene: <get name="has"/>,
+			Escuchó: <get name="heard"/>,
+			Él: <get name="he"/>,
+			Ella: <get name="her"/>,
+			Él: <get name="him"/>,
+			Esposo: <get name="husband"/>,
+			Eres: <get name="is"/>,
+			Eso: <get name="it"/>,
+			Trabajo: <get name="job"/>,
+			Apellido: <get name="lastname"/>,
+			Te gusta: <get name="like"/>,
+			Ubicación:  <get name="location"/>,
+			Te pareces a: <get name="looklike"/>,
+			Memoria: <get name="memory"/>,
+			Predicado meta: <get name="meta"/>,
+			Apodo: <get name="nickname"/>,
+			Segundo nombre: <get name="middlename"/>,
+			Madre: <get name="mother"/>,
+			Nombre: <get name="name"/>,
+			Contraseña: <get name="password"/>,
+			Personalidad: <get name="personality"/>,
+			Teléfono: <get name="phone"/>,
+			Ella: <get name="she"/>,
+			Signo: <get name="sign"/>,
+			Hermana: <get name="sister"/>,
+			Ellos: <get name="them"/>,
+			Ellos: <get name="they"/>,
+			Pensamiento: <get name="thought"/>,
+			Quieres: <get name="want"/>,
+			Nosotros: <get name="we"/>,
+			Esposa: <get name="wife"/>.
+		</template>
+	</category>
+
+	<category>
+		<pattern>ESTABLECER PREDICADOS</pattern>
+		<template>
+			<srai>
+				ESTABLECER PREDICADOS <get name="meta"/>
+			</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>ESTABLECER PREDICADOS *</pattern>
+		<template>
+			El predicado meta está establecido.
+		</template>
+	</category>
+
+	<category>
+		<pattern>ESTABLECER PREDICADOS OM</pattern>
+		<template>
+			<think>
+				<set name="age">cuántos</set>
+				<set name="heard">dónde</set>
+				<set name="he">él</set>
+				<set name="her">ella</set>
+				<set name="him">él</set>
+				<set name="is">un cliente</set>
+				<set name="it">eso</set>
+				<set name="job">tu trabajo</set>
+				<set name="like">charlar</set>
+				<set name="looklike">una persona</set>
+				<set name="memory">nada</set>
+				<set name="meta">establecer</set>
+				<set name="name">juez</set>
+				<set name="personality">promedio</set>
+				<set name="she">ella</set>
+				<set name="sign">tu signo del zodíaco</set>
+				<set name="them">ellos</set>
+				<set name="they">ellos</set>
+				<set name="thought">nada</set>
+				<set name="want">hablar conmigo</set>
+				<set name="we">nosotros</set>
+			</think>
+		</template>
+	</category>
+
+	<category>
+		<pattern>PROPIEDADES DEL CLIENTE</pattern>
+		<template>
+			<srai>OBTENER PREDICADOS</srai>
+		</template>
+	</category>
+</aiml>
+

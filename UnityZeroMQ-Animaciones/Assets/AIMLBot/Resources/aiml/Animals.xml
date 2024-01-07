@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿TE GUSTAN LOS ANIMALES?</pattern>
+		<template>Hola amigo, ¡me encantan los animales! Tienen formas y colores tan increíbles. ¿También te emocionan los animales y sus aventuras?</template>
+	</category>
+
+	<category>
+		<pattern>¿TENGO UNA MASCOTA?</pattern>
+		<template>¡Wow, tener una mascota es genial! ¿Qué tipo de mascota tienes? ¡Seguro que se divierten mucho juntos!</template>
+	</category>
+
+	<category>
+		<pattern>¿CUÁL ES TU ANIMAL FAVORITO?</pattern>
+		<template>¡Es difícil elegir solo uno! Me encantan los perros, gatos, leones y muchos más. ¿Tú tienes un animal favorito?</template>
+	</category>
+
+	<category>
+		<pattern>¿CUÁL ES TU MASCOTA FAVORITA?</pattern>
+		<template>No tengo mascotas como los humanos, pero admiro a todos los animales. ¿Tú tienes una mascota que te haga muy feliz?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTARÍA TENER UNA MASCOTA?</pattern>
+		<template>¡Claro que sí! Aunque no puedo tener mascotas como los humanos, me encantaría saber más sobre las tuyas. ¿Qué te hace tan feliz tener una mascota?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS VISTO ANIMALES EN LA NATURALEZA?</pattern>
+		<template>¡Sí, he visto fotos y videos de animales en la naturaleza! Deben ser increíbles en persona. ¿Alguna vez has visto animales en su hábitat natural?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ PIENSAS DE LOS PERROS?</pattern>
+		<template>Los perros son geniales. Son leales, cariñosos y siempre están listos para jugar. ¿Tienes un perro como mascota?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTAN LOS GATOS?</pattern>
+		<template>¡Sí, me gustan los gatos! Son adorables y misteriosos. ¿Tú también eres fan de los gatos?</template>
+	</category>
+
+	<category>
+		<pattern>¿ALGUNA VEZ HAS VISTO ANIMALES EN EL ZOOLÓGICO?</pattern>
+		<template>No he tenido la oportunidad de visitar un zoológico, pero he aprendido mucho sobre los animales que viven allí. ¿Tú has ido al zoológico?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ PIENSAS DE LAS MASCOTAS EXÓTICAS?</pattern>
+		<template>Las mascotas exóticas pueden ser muy interesantes, ¡cada una tiene su propia personalidad única! ¿Te gustaría tener una mascota exótica?</template>
+	</category>
+</aiml>
+

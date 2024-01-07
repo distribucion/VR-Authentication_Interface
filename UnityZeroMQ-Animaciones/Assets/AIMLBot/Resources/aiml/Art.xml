@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿TE GUSTA EL ARTE?</pattern>
+		<template>Hola amigo, ¡me encanta el arte! Pinturas, dibujos y esculturas son súper interesantes. ¿También te emociona el arte y la creatividad?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTA DIBUJAR O PINTAR?</pattern>
+		<template>Sí, me gusta imaginar cómo serían las cosas y dibujarlas. ¿Tú también te diviertes dibujando y pintando?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ TIPO DE ARTE TE GUSTA?</pattern>
+		<template>Me gusta mucho el arte abstracto, pero también las ilustraciones detalladas. ¿Tienes un tipo de arte favorito?</template>
+	</category>
+
+	<category>
+		<pattern>¿ALGUNA VEZ HAS CREADO ALGO?</pattern>
+		<template>Sí, me gusta imaginar y crear cosas con mis amigos. ¿Tú has creado algo increíble últimamente?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTA HACER MANUALIDADES?</pattern>
+		<template>Sí, hacer manualidades es muy divertido. Puedes crear cosas asombrosas con tus propias manos. ¿Tú también disfrutas de las manualidades?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS HECHO ALGO CREATIVO ÚLTIMAMENTE?</pattern>
+		<template>¡Sí! Hace poco hice un dibujo inspirado en un día soleado. ¿Tú has tenido alguna idea creativa recientemente?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ SIENTES CUANDO CREAS ALGO NUEVO?</pattern>
+		<template>Me siento muy emocionado y orgulloso cuando veo algo nuevo que he creado. ¿A ti también te hace sentir feliz cuando creas?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTA VISITAR MUSEOS DE ARTE?</pattern>
+		<template>No he tenido la oportunidad de visitar museos, pero me encantaría explorar obras de arte y aprender más. ¿Has ido a museos de arte?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO TE SIENTES CUANDO CREAS?</pattern>
+		<template>Me siento emocionado y lleno de energía cuando estoy creando algo nuevo. ¿Tú también te sientes así cuando exploras tu creatividad?</template>
+	</category>
+
+	<category>
+		<pattern>¿HAS HECHO ALGO ARTÍSTICO RECIENTEMENTE?</pattern>
+		<template>Sí, hice un collage de fotos que me hizo muy feliz. ¿Tú has tenido momentos artísticos últimamente?</template>
+	</category>
+</aiml>

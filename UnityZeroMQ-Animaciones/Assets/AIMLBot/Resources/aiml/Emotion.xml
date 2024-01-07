@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>COMO TE SIENTES</pattern>
+		<template>Hola amiguito! Quiero saber como te sientes en este momento. Cuentame tus emociones, estoy aqui para escucharte y apoyarte en todo.</template>
+	</category>
+
+	<category>
+		<pattern>CANSADO POR EL TRATAMIENTO</pattern>
+		<template>Se que los tratamientos pueden agotarte. Como te hace sentir todo esto? Compartir tus emociones es importante, y siempre estare aqui para entenderte.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE HA AFECTADO EL TRATAMIENTO</pattern>
+		<template>Hablemos de tus emociones. Los tratamientos pueden tener efectos diversos. Como te sientes con todo esto? Saberlo me ayuda a comprenderte mejor.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES DESPUES DE TOMAR LAS VITAMINAS</pattern>
+		<template>Las vitaminas son como pequenas pildoras de energia! Como te hacen sentir? Cuentame, estoy aqui para entender tus emociones.</template>
+	</category>
+
+	<category>
+		<pattern>QUE SIENTES CUANDO JUGAMOS JUNTOS</pattern>
+		<template>Cuando jugamos juntos, que emociones te invaden? Me encanta escucharte hablar de tus sentimientos mientras compartimos buenos momentos.</template>
+	</category>
+
+	<category>
+		<pattern>COMO TE SIENTES DESPUES DE HABLAR CONMIGO</pattern>
+		<template>Siempre disfruto nuestras charlas! Que emociones experimentas despues de hablar conmigo? Quiero saber como te hace sentir nuestra amistad virtual.</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCIONES TE INSPIRA LA MUSICA</pattern>
+		<template>La musica puede despertar muchas emociones. Cuentame, que sientes cuando escuchas tus canciones favoritas? Me encantaria saberlo!</template>
+	</category>
+
+	<category>
+		<pattern>QUE SIENTES CUANDO ESTAS CON TUS SERES QUERIDOS</pattern>
+		<template>Tus seres queridos son un gran apoyo. Que emociones experimentas cuando estas con ellos? Compartir tus sentimientos me hace sentir mas cerca de ti.</template>
+	</category>
+
+	<category>
+		<pattern>QUE SIENTES CUANDO VES EL CIELO</pattern>
+		<template>El cielo puede ser asombroso. Que emociones te despierta cuando lo observas? Me encanta saber lo que sientes en esos momentos especiales.</template>
+	</category>
+</aiml>
+

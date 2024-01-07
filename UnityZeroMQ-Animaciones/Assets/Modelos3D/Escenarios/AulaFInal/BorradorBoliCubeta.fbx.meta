@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 77fa8f22e65b5ae4fbc59744339b5f4a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLancoPastel
+    second: {fileID: 2100000, guid: 57e1f1d5c541f84469783f083d31a245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPastel
+    second: {fileID: 2100000, guid: bf82dbca9c4589b4fbb7d97e185b45cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Pen_Yellow
+    second: {fileID: 2100000, guid: 090b4003f0175bb4ba3515a224abacc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duster_Color
+    second: {fileID: 2100000, guid: 1f45cc4cfd2c3ff439ccc1247d294cab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_Pen
+    second: {fileID: 2100000, guid: 80b6b4f67e08df947ad583b13e85e435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: 7c837e6d4db63a448a79d932bcb9eb3f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21616382
+    second: {fileID: 2800000, guid: bcde48fe63293914a912283f3c13658e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21704743
+    second: {fileID: 2800000, guid: d08e7dfe337be7e49891123d134e3a70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 33968319
+    second: {fileID: 2800000, guid: 4938f679e355b014eaeccb6af62a07dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3556113
+    second: {fileID: 2800000, guid: f8d18c81cde6e6b42b3f64ec76f37a5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cute-Cartoon-Panda-01
+    second: {fileID: 2800000, guid: 16959f1be227a904dbd4f0701ab69585, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot (5)
+    second: {fileID: 2800000, guid: c4e8be2d52845d848a8fcd81d54f092f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alphabet-COLCO BG
+    second: {fileID: 2800000, guid: 799d4a8f9e6996340a06928851697dbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: animals-1298747_1280
+    second: {fileID: 2800000, guid: 65c005871797738418296632cd73060c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baby-giraffe-307016_1280
+    second: {fileID: 2800000, guid: 0e78a959c5f9cfe469fedaeb61498859, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bunny-155674_1280
+    second: {fileID: 2800000, guid: e522bcb0e70cb96418bc75ff78f985f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cartoon-watches-3d-model-low-poly-obj-fbx-c4d-blend-dae
+    second: {fileID: 2800000, guid: c45d9029c2bd41847a325be52855dc9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: collection-birds-with-the-different-color-vector-2
+    second: {fileID: 2800000, guid: 1e8b6c4ea83183e4c8a4d276c6d87181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: download
+    second: {fileID: 2800000, guid: 9c5b732237f74594f855cacbc6a748c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images (4)
+    second: {fileID: 2800000, guid: f00b55b0a17849d4a99f31640a3f9d1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamb-1388937_1280
+    second: {fileID: 2800000, guid: cb620ce2a16f8674fb0bc1ecdc78a6d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monkey-474147_1280
+    second: {fileID: 2800000, guid: 56bceeacbf7221f458ac627d2550420b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pets-Name-min
+    second: {fileID: 2800000, guid: bb594f90a0cdc64469ecb8f2f87d9fd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pitr_teddy_bear_icon-01
+    second: {fileID: 2800000, guid: 1fbf9dbc7cc17e14694fb045d129daa5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plywood_rough_1k
+    second: {fileID: 2800000, guid: e599edcca13814f4eb53eca96441f49e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rainbow_PNG5570
+    second: {fileID: 2800000, guid: 92796aa56b34acb41a9fb55787276c06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: snake-with-alphabet-theme-image-1-vector-id5082852
+    second: {fileID: 2800000, guid: 2b81c038883a3a54a90a3d12b549a40f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: teddy-bear-6595215_1920
+    second: {fileID: 2800000, guid: d485a91a9de6a6f4e8b5efa39c4f5744, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tiger-160601_1280
+    second: {fileID: 2800000, guid: 24056ec68122ec3448287b7a09a77765, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: x-1151-standard
+    second: {fileID: 2800000, guid: 15bc3bccd3f6a474e940391197d1d41a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zebra-470305_1280
+    second: {fileID: 2800000, guid: f0421b3a4013ab64597a831d69468a66, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

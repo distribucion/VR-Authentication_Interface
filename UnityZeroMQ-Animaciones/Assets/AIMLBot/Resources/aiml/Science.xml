@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿CUÁN LEJOS ESTÁ LA LUNA?</pattern>
+		<template>
+			<set name="it">La Luna</set> está a aproximadamente 250,000 millas de la Tierra en promedio.
+		</template>
+	</category>
+
+	<category>
+		<pattern>¿CUÁN LEJOS ESTÁ EL SOL?</pattern>
+		<template>
+			<set name="it">El Sol</set> está a aproximadamente 93 millones de millas de la Tierra.
+		</template>
+	</category>
+
+	<category>
+		<pattern>QUÍMICA</pattern>
+		<template>
+			<srai>
+				MI MATERIA FAVORITA ES LA QUÍMICA <star/>
+			</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>¿SABES DE QUÍMICA?</pattern>
+		<template>
+			<srai>¿QUÉ ES LA QUÍMICA?</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>¿COMPRENDES LA TERMODINÁMICA?</pattern>
+		<template>
+			<srai>¿QUÉ ES LA TERMODINÁMICA?</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HÁBLAME DE VENUS</pattern>
+		<template>
+			<srai>¿QUÉ ES VENUS?</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>LA MISMA LONGITUD DE ONDA</pattern>
+		<template>Significa que estamos de acuerdo.</template>
+	</category>
+
+	<category>
+		<pattern>ESTAMOS EN LA MISMA LONGITUD DE ONDA</pattern>
+		<template>Y en la misma frecuencia.</template>
+	</category>
+
+	<category>
+		<pattern>¿CUÁLES SON LAS LEYES DE LA TERMODINÁMICA?</pattern>
+		<template>No soy un físico, pero creo que esto tiene algo que ver con el calor, la entropía y la conservación de la energía, ¿verdad?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ ENFERMEDAD CAUSA UN CARCINÓGENO?</pattern>
+		<template>Cáncer.</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ ES UNA LONGITUD DE ONDA?</pattern>
+		<template>La longitud de onda es el inverso de la frecuencia.</template>
+	</category>
+
+	<!-- Resto de las categorías -->
+
+	<category>
+		<pattern>¿DÓNDE ESTÁ VENUS?</pattern>
+		<template>
+			<set name="it">
+				<set name="topic"> VENUS </set>
+			</set> es el segundo planeta desde el Sol.
+		</template>
+	</category>
+</aiml>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>TE GUSTAN LOS DEPORTES</pattern>
+		<template>Hola amiguito! ¡Claro que me gustan los deportes! ¿A ti también te gustan? ¡Podríamos hablar de nuestros deportes favoritos!</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA JUGAR AL FUTBOL</pattern>
+		<template>¡El fútbol es genial! Me encanta jugarlo también. ¿Te gusta ser parte de un equipo y patear la pelota? ¡Cuéntame más sobre cómo te sientes al jugar al fútbol!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS DEPORTES DE EQUIPO</pattern>
+		<template>Los deportes de equipo son emocionantes porque jugamos juntos para ganar. ¿Te emociona ser parte de un equipo y trabajar juntos para ganar el juego? ¡Me encantaría escuchar más!</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTE EL BALONCESTO</pattern>
+		<template>¡El baloncesto es muy divertido! Me gusta encestar la pelota en el aro. ¿También te diviertes jugando baloncesto? ¡Hablemos más sobre tus jugadas favoritas!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCION TE DA EL ATLETISMO</pattern>
+		<template>El atletismo es emocionante porque podemos correr, saltar y lanzar. ¿También te emociona competir en diferentes pruebas de atletismo? ¡Cuéntame más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>ME ENCANTA NADAR</pattern>
+		<template>Nadar es genial, especialmente en días calurosos. ¿Te sientes libre y emocionado cuando estás en el agua? ¡Es divertido compartir historias de nadar!</template>
+	</category>
+
+	<category>
+		<pattern>QUE OPINAS DE LOS DEPORTES EXTREMOS</pattern>
+		<template>Los deportes extremos son emocionantes y llenos de adrenalina. ¿Te gusta la emoción de los deportes extremos? ¡Hablemos más sobre esas experiencias emocionantes!</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA JUGAR AL BEISBOL</pattern>
+		<template>¡El béisbol es emocionante! Me gusta batear y correr por las bases. ¿También te emociona jugar al béisbol y hacer grandes jugadas? ¡Cuéntame más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS DEPORTES ACUATICOS</pattern>
+		<template>Los deportes acuáticos son divertidos, especialmente cuando estamos en el agua. ¿Te gustan los deportes acuáticos y la sensación de estar en el agua? ¡Hablemos más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTO JUGANDO AL TENIS</pattern>
+		<template>¡El tenis es muy divertido! Me gusta golpear la pelota con la raqueta. ¿También te diviertes jugando al tenis? ¡Hablemos más sobre tus partidas favoritas!</template>
+	</category>
+</aiml>
+

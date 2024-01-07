@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 8c079e4571eed8e49b714e2bfb3b1f68
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Animales
+    second: {fileID: 2100000, guid: 1dea3547ddfe3f344a091c89fcd1616c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcoiris
+    second: {fileID: 2100000, guid: 4f10bb3e07ddee14dac6bf0f48f65de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLancoPastel
+    second: {fileID: 2100000, guid: 30073c07b0b98354bba75f742585934c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLancoPastel.3
+    second: {fileID: 2100000, guid: 57802741d534c8a4ba9a8790459f0a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLancoPastel.8
+    second: {fileID: 2100000, guid: a355e15fcf19ecc478d581c731045b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bear_Painting
+    second: {fileID: 2100000, guid: a5e696269e10b204589f6dad4cb30d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPastel
+    second: {fileID: 2100000, guid: 72c444456960ff8449858d537135ec71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Pastel
+    second: {fileID: 2100000, guid: 8e8fbef6cb59b314fa127d923aa82daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Pen_Yellow
+    second: {fileID: 2100000, guid: ab32ea6c2c7dcdb4585371186e5e9534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book
+    second: {fileID: 2100000, guid: be1a06814be0acf40b70cf6f9f442282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boy_Painting
+    second: {fileID: 2100000, guid: 118cb6a70f46a40439d19f898c24b8c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CelestePastel
+    second: {fileID: 2100000, guid: 4513db980d528d844a43582f0b1b2bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cienpies
+    second: {fileID: 2100000, guid: 801a1fdcfce9b7c4db9cc313163df7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Class_Woden
+    second: {fileID: 2100000, guid: 6065d19aa641dd5409d75d66ee2dd003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dibujo
+    second: {fileID: 2100000, guid: 428257e461cf8b24db1c9d62055ec70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duster_Color
+    second: {fileID: 2100000, guid: fc87b3c0bcaafc6479a9a4a487552de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_Board_Orange
+    second: {fileID: 2100000, guid: b64c88f0c6a667046826bddf905b845f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower_Color_2
+    second: {fileID: 2100000, guid: 901699f025b45f64e83d92ec7e1d69a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower_Leaf
+    second: {fileID: 2100000, guid: fa3ee468fc048844aac1b54af6496def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_Color
+    second: {fileID: 2100000, guid: a567a1cf543bde74f8ae982832d9c1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granja
+    second: {fileID: 2100000, guid: 02efb52049ae02944b62c2348aaa7a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gree_Board_Texture
+    second: {fileID: 2100000, guid: 68ff86ec63dfebd46b9c361dff567c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenPastel
+    second: {fileID: 2100000, guid: 5fdcd826f4d76a74a9059a01fc3a29e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gusano
+    second: {fileID: 2100000, guid: 0a045a3e14cf1544e96483f3795003ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Highlighter_Brown
+    second: {fileID: 2100000, guid: 819595c0202413044b61787e6d4f03cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Highlighter_Green
+    second: {fileID: 2100000, guid: 9b4c26495f8188f45bb0d6fe947139ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Highlighter_Purple
+    second: {fileID: 2100000, guid: 0d4d7ec4fc66d4949a579c08d624c006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Highlighter_Red
+    second: {fileID: 2100000, guid: 6068e997ac49bf046910560c97a97c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse
+    second: {fileID: 2100000, guid: 369ab7e58ee127749986f5143e39a568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 6c19c09a7a721b14e90ff7758465f469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 5d06e791813b5d1488e5f3c5db636d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0f467dc60ae058e4aab73ff133520066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 097c1cf3636874a4cafe6f29f0f0cf31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Naranja
+    second: {fileID: 2100000, guid: d19afbdb6ffa4ff4285ae681fa4e97ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Numeros
+    second: {fileID: 2100000, guid: b9ff381c5fc59b244bd1786b02bb837e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: b16b830eedc945441a023961ea6713ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oso
+    second: {fileID: 2100000, guid: 76e3d232e88ff8b4e91bd2e50e423706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oso.1
+    second: {fileID: 2100000, guid: f82a409b8c1ab984ea210bff962a4f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared
+    second: {fileID: 2100000, guid: 47f6e07c0bfbb0c4ebf0ea52bc3181ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pot
+    second: {fileID: 2100000, guid: 30ce8c5b3cf60b14091d8e28e0f132b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_Pen
+    second: {fileID: 2100000, guid: f53c1714999943742a63db63bca6886f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Pen
+    second: {fileID: 2100000, guid: c733cdad5c4167a4ea42d39948a3effb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RojoPastel
+    second: {fileID: 2100000, guid: 500f18d26f7b9ae49a94b452e925188f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Floor
+    second: {fileID: 2100000, guid: 79d646d8f8ec94c43a5c054a8521ec1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scener_2
+    second: {fileID: 2100000, guid: ae48aa3a33481464289a7335ebee593c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SerpienteLetras
+    second: {fileID: 2100000, guid: 6084fba8fc6fc2f458d9aa2d3020721f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: 0dc4c9c2b729bdd4f82947baa3bcfffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SoporteJuguetes
+    second: {fileID: 2100000, guid: a880f6c2404a9b84387d8b51d0047bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Student_Chair_Seat
+    second: {fileID: 2100000, guid: 041528af677485646beccb864a268fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Student_Chair_Seat.003
+    second: {fileID: 2100000, guid: f372b8ad716b92e479ee1a9095dd3bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Student_desk
+    second: {fileID: 2100000, guid: 3a8b7129c0a3875448517e74f061f3e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: 1f6a568a16bb40547b4289d8070ba731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table.001
+    second: {fileID: 2100000, guid: 69deffb81fe57b74caef37c56d334bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teacher_Chair_seat_Back
+    second: {fileID: 2100000, guid: 819be96dd73e8444a93e30f3f8dda83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonBlue
+    second: {fileID: 2100000, guid: cfd22f1d05c48bc4eb5f137f94eb10e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonBrowm
+    second: {fileID: 2100000, guid: 324867cc166b2db42b86665c37878d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonGreen
+    second: {fileID: 2100000, guid: 35921049fddcc644cb02da40bddcf834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonOrange
+    second: {fileID: 2100000, guid: 0c6be3c002b24054c8155b3db9c7173c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonRed.002
+    second: {fileID: 2100000, guid: d0fecced2806cb64b90128c9a4486dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToonSun
+    second: {fileID: 2100000, guid: c2e67380a5a12ce479dcc1c2faa434b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toy_Plane
+    second: {fileID: 2100000, guid: 439e5c47ee5b5cb418b5cff34e252ddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toy_Plane_2
+    second: {fileID: 2100000, guid: b5579d6bdf2a8b3439a1822207466dcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turtle
+    second: {fileID: 2100000, guid: 3cd2222c70fde454f8e128440a13ba6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vaca
+    second: {fileID: 2100000, guid: fcbc1213a96db014682c050fadc978cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdePastel
+    second: {fileID: 2100000, guid: 224cccaf6aad4914884628690f962224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window+1
+    second: {fileID: 2100000, guid: 6d9d4909b8823d940b9a803b9891649e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wite
+    second: {fileID: 2100000, guid: 7333f409ab1423641893e2b7157e5623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowPastel
+    second: {fileID: 2100000, guid: baaccb309e91e804687b28b7076a5486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alphabet-COLCO BG
+    second: {fileID: 2100000, guid: 8e1d348854ac9224ca182ac27074fefc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baby-giraffe
+    second: {fileID: 2100000, guid: baf0c14151cbc6b43aa56ac20f19bdf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bird
+    second: {fileID: 2100000, guid: 7405f9ee4ad65fd4cb016f0639741fbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue
+    second: {fileID: 2100000, guid: 0ff2bce9d4780e34aa9a1c9fd43bdf80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bunny
+    second: {fileID: 2100000, guid: c72e8d578c47cd14fac0f3252d5f6c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamb_
+    second: {fileID: 2100000, guid: 0c739e358aaaee5419946cd7c9169506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monkey
+    second: {fileID: 2100000, guid: a01e081093b2d76448f7a585ec361e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tiger
+    second: {fileID: 2100000, guid: 4c0bae07485ce4d48a958ad07f19e797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toonPurple
+    second: {fileID: 2100000, guid: 59576b482bbe89b44b186ceda36f1025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zebra
+    second: {fileID: 2100000, guid: 3394115f393ae4344a093cc7f00e98ac, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21616382
+    second: {fileID: 2800000, guid: de7840c81d261984897be698499e00c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21704743
+    second: {fileID: 2800000, guid: 352bee92e2d36cb4f8790888b9fc3e0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 33968319
+    second: {fileID: 2800000, guid: 35c68170f21acb34199a762220ab6a83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3556113
+    second: {fileID: 2800000, guid: 9917035172f590c4982ea76c7c960c78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cute-Cartoon-Panda-01
+    second: {fileID: 2800000, guid: 6cf3a5b1e91dc9443a7fc3c5c5b523ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot (5)
+    second: {fileID: 2800000, guid: fb24656d7eb605a428b0fc92c19fe50d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alphabet-COLCO BG
+    second: {fileID: 2800000, guid: 17f8eef0bbf0c244184a36e39cd072e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: animals-1298747_1280
+    second: {fileID: 2800000, guid: bb5849a8cfbdb5b408e81b6d1f80cd06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baby-giraffe-307016_1280
+    second: {fileID: 2800000, guid: 84df478cec168334f8c1c8582f59ae19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bunny-155674_1280
+    second: {fileID: 2800000, guid: 6bdb7d9f238d316419c6f022d3b18c12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cartoon-watches-3d-model-low-poly-obj-fbx-c4d-blend-dae
+    second: {fileID: 2800000, guid: aab4107917ae3a147b595e05ba05b795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: collection-birds-with-the-different-color-vector-2
+    second: {fileID: 2800000, guid: b6b1a99fc8f87174680e76961a79927c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: download
+    second: {fileID: 2800000, guid: c37ff2ee7bad38f4687481f4c54fe6d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images (4)
+    second: {fileID: 2800000, guid: 6289b080970bfb4469447a6a379ded35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamb-1388937_1280
+    second: {fileID: 2800000, guid: 89ab4711caa96c84abecb9b0e3c2af4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monkey-474147_1280
+    second: {fileID: 2800000, guid: bb52f685d72173543915816e73a9d787, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pets-Name-min
+    second: {fileID: 2800000, guid: 6db9746030f8a5d44bfc1a6a326944a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pitr_teddy_bear_icon-01
+    second: {fileID: 2800000, guid: 4bb5a3332b0b71d4e9b280c2b30ecb34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plywood_rough_1k
+    second: {fileID: 2800000, guid: a8f7d3bedd098f24880c951b88b96119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rainbow_PNG5570
+    second: {fileID: 2800000, guid: 6f7d5f5623f225e459ffcbfc6195faee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: snake-with-alphabet-theme-image-1-vector-id5082852
+    second: {fileID: 2800000, guid: f8acacda994720f4b9a6c841cd4982d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: teddy-bear-6595215_1920
+    second: {fileID: 2800000, guid: 613ac8da4e80e6e4dad73ed7cdac3e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tiger-160601_1280
+    second: {fileID: 2800000, guid: 71d80a1c0cbe000458e5199ac51c193e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: x-1151-standard
+    second: {fileID: 2800000, guid: 68f3335689103e84cac603f0cfd5c3fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zebra-470305_1280
+    second: {fileID: 2800000, guid: 74f42ff2891b385498ffbf4fb4d6f0ea, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

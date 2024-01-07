@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>TE GUSTA LA NATURALEZA</pattern>
+		<template>Hola amigo, ¡me encanta la naturaleza y todas las maravillas que tiene! ¿También te emociona explorar y aprender sobre el mundo natural?</template>
+	</category>
+
+	<category>
+		<pattern>ME FASCINAN LOS ANIMALES</pattern>
+		<template>¡A mí también me fascinan! Los animales son increíbles y tienen tantas formas y colores diferentes. ¿Cuál es tu animal favorito?</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS PLANTAS</pattern>
+		<template>Las plantas son asombrosas porque nos dan oxígeno y crean paisajes hermosos. ¿Te gustaría aprender más sobre las diferentes plantas que existen?</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTEN LAS EXCURSIONES AL AIRE LIBRE</pattern>
+		<template>Las excursiones al aire libre son muy divertidas. Podemos caminar por senderos, observar aves y explorar el mundo natural. ¿También te emociona la idea de estar en plena naturaleza?</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCION TE DA VER UN ATARDECER</pattern>
+		<template>Ver un atardecer me llena de emoción. Los colores en el cielo son tan hermosos. ¿Te gusta observar los atardeceres y las maravillas naturales?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTARIA EXPLORAR UNA SELVA</pattern>
+		<template>Explorar una selva suena emocionante. Hay tantas criaturas y plantas por descubrir. ¿Qué te gustaría ver en una selva?</template>
+	</category>
+
+	<category>
+		<pattern>QUE OPINAS DE LOS RIOS Y LAGOS</pattern>
+		<template>Los ríos y lagos son lugares hermosos y tranquilos. Me gusta observar el agua y la vida que la rodea. ¿Te gustaría explorar ríos y lagos?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA HACER PICNICS EN EL CAMPO</pattern>
+		<template>¡Hacer picnics en el campo es muy divertido! Podemos disfrutar de comida deliciosa rodeados de naturaleza. ¿También te gusta hacer picnics?</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LAS MONTAÑAS</pattern>
+		<template>Las montañas son majestuosas y desafiantes de escalar. ¿Te gustaría algún día subir a la cima de una montaña y disfrutar de la vista?</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTEN LAS ACTIVIDADES AL AIRE LIBRE</pattern>
+		<template>¡A mí también me divierten mucho! Podemos jugar, explorar y aprender en la naturaleza. ¿Qué actividades al aire libre te gustan más?</template>
+	</category>
+</aiml>
+

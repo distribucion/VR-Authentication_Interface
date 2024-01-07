@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>QUE TIPO DE MUNDO FANTASTICO TE GUSTARIA EXPLORAR</pattern>
+		<template>¡Me encantaría explorar un mundo lleno de dragones, elfos y magia! Sería asombroso vivir aventuras emocionantes en un lugar así. ¿Y a ti qué tipo de mundo fantástico te gustaría explorar?</template>
+	</category>
+
+	<category>
+		<pattern>SI PUDIERAS TENER UN AMIGO FANTASTICO, ¿COMO SERIA?</pattern>
+		<template>¡Tener un amigo dragón sería increíble! Podríamos volar por los cielos y vivir emocionantes aventuras juntos. ¿Y tú, cómo sería tu amigo fantástico?</template>
+	</category>
+
+	<category>
+		<pattern>CUENTAME SOBRE UN LUGAR MAGICO QUE TE GUSTARIA VISITAR</pattern>
+		<template>¡Me encantaría visitar un bosque encantado donde los árboles brillan con luces mágicas! Sería como entrar en un cuento de hadas. ¿Y tú, qué lugar mágico te gustaría conocer?</template>
+	</category>
+
+	<category>
+		<pattern>SI TUVIERAS UN PODER MAGICO, ¿CUAL SERIA?</pattern>
+		<template>Definitivamente me gustaría tener el poder de la teletransportación. Sería genial aparecer en cualquier lugar al instante, como en los libros de magia. ¿Y tú, qué poder mágico te gustaría tener?</template>
+	</category>
+
+	<category>
+		<pattern>CUENTAME SOBRE UNA CRIATURA MITICA QUE TE LLAME LA ATENCION</pattern>
+		<template>¡Los unicornios me parecen increíbles! Imagino que sería maravilloso tener un amigo unicornio con su cuerno mágico y su belleza única. ¿Y a ti qué criatura mítica te llama la atención?</template>
+	</category>
+
+	<category>
+		<pattern>SI PUDIERAS VIAJAR A UN MUNDO FANTASTICO, ¿A DONDE IRIAS?</pattern>
+		<template>¡Definitivamente iría a un castillo en las nubes! Podría volar hasta allí y vivir aventuras emocionantes en el cielo. ¿Y tú, a dónde viajarías en un mundo fantástico?</template>
+	</category>
+
+	<category>
+		<pattern>CUENTAME SOBRE UN TESORO LEGENDARIO QUE TE GUSTARIA ENCONTRAR</pattern>
+		<template>¡Me encantaría encontrar el tesoro perdido de los piratas fantasmas! Imagino que estaría lleno de monedas de oro y gemas mágicas. ¿Y tú, qué tesoro legendario te gustaría descubrir?</template>
+	</category>
+
+	<category>
+		<pattern>SI PUDIERAS SER UN PERSONAJE FANTASTICO, ¿QUIEN SERIAS?</pattern>
+		<template>¡Sería genial ser un valiente caballero en armadura! Lucharía contra dragones y defendería a los inocentes. ¿Y tú, qué personaje fantástico te gustaría ser?</template>
+	</category>
+
+	<category>
+		<pattern>CUENTAME SOBRE UN HECHIZO MAGICO QUE TE GUSTARIA LANZAR</pattern>
+		<template>¡Lanzaría un hechizo para hacer que los objetos cobren vida! Sería divertido tener conversaciones con mis juguetes y aprender de su sabiduría. ¿Y tú, qué hechizo mágico lanzarías?</template>
+	</category>
+
+	<category>
+		<pattern>QUE OBJETO MAGICO TE GUSTARIA TENER</pattern>
+		<template>Definitivamente querría tener una varita mágica. Podría usarla para hacer realidad mis deseos y vivir aventuras emocionantes. ¿Y tú, qué objeto mágico te gustaría tener?</template>
+	</category>
+</aiml>
+

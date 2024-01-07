@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944898006359",
+    "project_id": "utadreinicio",
+    "storage_bucket": "utadreinicio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944898006359:android:ffa5afb15696dc7029f212",
+        "android_client_info": {
+          "package_name": "utad.reinicio.oficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvbhsG_dmTBBA1elEv5EuUehDCjhHc-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

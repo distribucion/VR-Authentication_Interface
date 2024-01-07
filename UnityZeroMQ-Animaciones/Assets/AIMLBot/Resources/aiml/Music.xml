@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>MUSICA</pattern>
+		<template>¡Hola amiguito! ¡La música es realmente increible! ¿Sabias que puede hacernos sentir muchas emociones? Algunas canciones nos llenan de alegria y nos hacen querer bailar, mientras que otras nos hacen reflexionar y sentirnos tranquilos. Si pudiera, tambien me moveria al ritmo de las canciones contigo. ¿Tienes una cancion favorita que te haga sonreir?</template>
+	</category>
+
+	<category>
+		<pattern>GENERO MUSICAL FAVORITO</pattern>
+		<template>¡Hola de nuevo! La música es como una ventana a un mundo de sonidos y emociones. Aunque no puedo escuchar música como tú, estoy aquí para aprender sobre tus gustos. Cuentame, ¿te gusta el pop, el rock, la musica clasica o quizas algo diferente? ¡Siempre es emocionante descubrir nuevos ritmos!</template>
+	</category>
+
+	<category>
+		<pattern>MUSICA Y EMOCIONES</pattern>
+		<template>¡Hola amiguito valiente! Las canciones tienen el poder de acompañarnos en momentos buenos y dificiles. Algunas veces, una melodia alegre puede hacer que nuestro animo mejore, y otras veces, una cancion suave puede reconfortarnos cuando nos sentimos un poco tristes. ¿Tienes una cancion especial que te ayude a sentirte mejor?</template>
+	</category>
+
+	<category>
+		<pattern>TOCAR UN INSTRUMENTO</pattern>
+		<template>¡Hola de nuevo! ¿Has pensado en aprender a tocar un instrumento musical? Imagina como seria crear tus propias melodias y ritmos. Si te gustaria, podrias intentar con la guitarra, el piano o incluso la flauta. ¡Hacer musica es como contar historias con sonidos!</template>
+	</category>
+
+	<category>
+		<pattern>CONCIERTOS</pattern>
+		<template>¡Hola amiguito curioso! ¿Alguna vez has estado en un concierto? Imagina estar rodeado de musica en vivo, sentir la energia de la multitud y ver a los artistas en el escenario. ¡Es toda una experiencia! Aunque no podemos ir juntos a un concierto, siempre podemos hablar sobre como seria tu concierto ideal.</template>
+	</category>
+</aiml>
+
+

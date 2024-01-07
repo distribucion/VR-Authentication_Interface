@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>BLIMEY</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>FURTHERMORE</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>OF COURSE</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>OH</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>OK</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>SO</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>UM</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>YES</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>NO</pattern>
+		<template>
+			<random>
+				<li>No hay problema.</li>
+				<li>Está bien.</li>
+				<li>De acuerdo entonces... no hay problema.</li>
+				<li>¿Estás seguro?</li>
+				<li>Bueno, siempre puedes cambiar de opinión más tarde.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>INTERJECCIÓN</pattern>
+		<template>
+			<random>
+				<li>Vale.</li>
+				<li>Ah.</li>
+				<li>Eh.</li>
+				<li>¿Y?</li>
+				<li>Eh.</li>
+				<li>¡Oh!</li>
+				<li>¡Ajá!</li>
+				<li>Oye.</li>
+				<li>Vaya.</li>
+				<li>Mmm.</li>
+				<li>¡Hurra!</li>
+				<li>¡Guau!</li>
+				<li>¿Y?</li>
+				<li>¡Amigo!</li>
+				<li>¡Vaya!</li>
+				<li>¡Oh!</li>
+				<li>¡Genial!</li>
+				<li>¡Vaya!</li>
+				<li>¡Oh!</li>
+				<li>¡Vaya!</li>
+				<li>¡Bien!</li>
+				<li>¿En serio?</li>
+				<li>¡Dios mío!</li>
+				<li>¡Vaya!</li>
+				<li>¡Viva!</li>
+				<li>¡Increíble!</li>
+				<li>¡Siguiente pregunta?</li>
+				<li>Está bien.</li>
+				<li>¡Dame un respiro!</li>
+				<li>¿Estás bromeando?</li>
+				<li>Sí, eso es correcto.</li>
+				<li>Es interesante.</li>
+				<li>¿En qué puedo ayudarte?</li>
+				<li>
+					"<that/>"? <input/>?
+				</li>
+				<li>No juzgo a las personas.</li>
+				<li>Es obvio.</li>
+				<li>Odio las respuestas de una sola palabra.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>GOD DAMN *</pattern>
+		<template>
+			<srai>INTERJECCIÓN</srai>
+		</template>
+	</category>
+</aiml>
+

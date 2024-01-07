@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<item name="=RESPUESTA" value="" />
+	<item name="NOMBRE=REINICIAR" value="" />
+	<item name=":-)" value="sonrisa" />
+	<item name=":)" value="sonrisa" />
+	<item name=",)" value="sonrisa" />
+	<item name=";)" value="sonrisa" />
+	<item name=";-)" value="sonrisa" />
+	<item name="&quot;" value="" />
+	<item name="/" value=" " />
+	<item name="&gt;" value="mayor que" />
+	<item name="&lt;" value="menor que" />
+	<item name="(" value=" " />
+	<item name=")" value=" " />
+	<item name="`" value=" " />
+	<item name="," value=" " />
+	<item name=":" value=" " />
+	<item name="&amp;" value=" " />
+	<item name="-" value="-" />
+	<item name="=" value=" " />
+	<item name="L A" value="la" />
+	<item name=" O K " value="ok" />
+	<item name=" P S " value="ps" />
+	<item name="OHH" value="oh" />
+	<item name="JEJE" value="el" />
+	<item name="JAJA" value="ja" />
+	<item name="AYUUDA" value="ayuda" />
+	<item name="PORQU" value="porque" />
+	<item name="CREER" value="creer" />
+	<item name="PORQUE" value="porque" />
+	<item name="PORQAE" value="porque" />
+	<item name="PORUQUE" value="porque" />
+	<item name="REDUCCIOISMO" value="reduccionismo" />
+	<item name=" ES UN " value="es un" />
+	<item name="NOYO" value="si, yo" />
+	<item name="FAVORITO" value="favorito" />
+	<item name="SIYO" value="si, yo" />
+	<item name="SIESO" value="si, eso" />
+	<item name="YOSOY" value="yo soy" />
+	<item name="BIENYO" value="bien, yo" />
+	<item name="BIENESO" value="bien, eso" />
+	<item name="ESTOYBIEN" value="estoy bien" />
+	<item name="SOYUN" value="soy un" />
+	<item name="ESTOYEN" value="estoy en" />
+	<item name="NOESTOY" value="no estoy" />
+	<item name="REALMENTE" value="realmente" />
+	<item name="ESTOYUSANDO" value="estoy usando" />
+	<item name="MEVOY" value="me voy" />
+	<item name="SI" value="si" />
+	<item name="SII" value="si" />
+	<item name="SIU" value="si" />
+	<item name="TU" value="tu" />
+	<item name="QUIERES" value="quieres" />
+	<item name="TUHARIAS" value="tu harias" />
+	<item name="TU ERES" value="tu eres" />
+	<item name="TU HAS" value="tu has" />
+	<item name="TU VAS A" value="tu vas a" />
+	<item name="TU ERES" value="tu eres" />
+	<item name="NO HIZO" value="no hizo" />
+	<item name="NO HIZO" value="no hizo" />
+	<item name="NO HIZO" value="no hizo" />
+	<item name="NO PUDO" value="no pudo" />
+	<item name="NO PUDO" value="no pudo" />
+	<item name="NO HIZO" value="no hizo" />
+	<item name="NO ES" value="no es" />
+	<item name="NOO ES" value="no es" />
+	<item name="NO EES" value="no es" />
+	<item name="NO ESS" value="no es" />
+	<item name="NNO ES" value="no es" />
+	<item name="ES" value="es" />
+	<item name="ES" value="es" />
+	<item name="NO S ON" value="no son" />
+	<item name="NOSON" value="no son" />
+	<item name="NO SON" value="no son" />
+	<item name="NO SO" value="no son" />
+	<item name="N SON" value="no son" />
+	<item name="DONDE EST" value="donde esta" />
+	<item name="DONDE ESTA" value="donde esta" />
+	<item name="NO HAN" value="no han" />
+	<item name="NO AN" value="no han" />
+	<item name="NO TIENE" value="no tiene" />
+	<item name="NO TINE" value="no tiene" />
+	<item name="NO ESTABAN" value="no estaban" />
+	<item name="NOESTABAN" value="no estaban" />
+	<item name="NO ESTAB" value="no estaban" />
+	<item name="NO PUEDO" value="no puedo" />
+	<item name="NO PUE" value="no puedo" />
+	<item name="NO PUED" value="no puedo" />
+	<item name="NOPUEDO" value="no puedo" />
+	<item name="QUIEN ES" value="quien es" />
+	<item name="COMO ES" value="como es" />
+	<item name="COMOES" value="como es" />
+	<item name="COMO HIZO" value="como hizo" />
+	<item name="COMOHIZO" value="como hizo" />
+	<item name="COMO ES" value="como es" />
+	<item name="QUE ES" value="que es" />
+	<item name="EL NOMBRE ES" value="el nombre es" />
+	<item name="QUIEN ES" value="quien es" />
+	<item name="QUIENES" value="quien es" />
+	<item name="QUEES" value="que es" />
+	<item name="QUE ES" value="que es" />
+	<item name="ESO ES" value="eso es" />
+	<item name="HAYY" value="hay" />
+	<item name="HAY" value="hay" />
+	<item name="HAY" value="hay" />
+	<item name="ESO ES" value="eso es" />
+	<item name="NO HACE" value="no hace" />
+	<item name="NO HA" value="no hace" />
+	<item name="NOHACE" value="no hace" />
+	<item name="O HAGAS" value="no hagas" />
+	<item name="NO HAGA" value="no hagas" />
+	<item name="NO HAG" value="no hagas" />
+	<item name="NO HA GAS" value="no hagas" />
+	<item name="NO HAGAS" value="no hagas" />
+	<item name="NOHAGAS" value="no hagas" />
+	<item name="N VA A" value="no va a" />
+	<item name="NO V A" value="no va a" />
+	<item name="NOVAA" value="no va a" />
+	<item name="NO VA A" value="no va a" />
+	<item name="PERMITE QUE" value="permite que" />
+	<item name="ELLOSON" value="ellos son" />
+	<item name="ELLOS SON" value="ellos son" />
+	<item name="NO FUE" value="no fue" />
+	<item name="NO FU" value="no fue" />
+	<item name="NOFUE" value="no fue" />
+	<item name="NOHABIA" value="no habia" />
+	<item name="NO HABIA" value="no habia" />
+	<item name="NOLOHARIA" value="no lo haria" />
+	<item name="NO LO HAR" value="no lo haria" />
+	<item name="NO LO HARIA" value="no lo haria" />
+	<item name="NO DEBERIA" value="no deberia" />
+	<item name="NO DEBERIA" value="no deberia" />
+	<item name="FAVORITO" value="favorito" />
+	<item name="COLOR" value="color" />
+	<item name="NOSOTROS VAMOS A" value="nosotros vamos a" />
+	<item name="NOSOTROS SOMOS" value="nosotros somos" />
+	<item name="ELLAES" value="ella es" />
+	<item name="ELLA ES" value="ella es" />
+	<item name="ELLAHARIA" value="ella haria" />
+	<item name="ELLA HARIA" value="ella haria" />
+	<item name="ELLAHARIA" value="ella haria" />
+	<item name="EL HARIA" value="el haria" />
+	<item name="EL HARIA" value="el haria" />
+	<item name="EL HARIA" value="el haria" />
+	<item name="EL ES" value="el es" />
+	<item name=" NOSOTROS HEMOS" value="nosotros hemos" />
+	<item name=" NOSOTROS SOMOS" value="nosotros somos" />
+	<item name=" ELLA ES" value="ella es" />
+	<item name=" EL ES" value="el es" />
+	<item name="SOYUN" value="soy un" />
+	<item name="ESTOYPREGUNTANDO" value="estoy preguntando" />
+	<item name="ESTOYHACIENDO" value="estoy haciendo" />
+	<item name="SOYDE" value="soy de" />
+	<item name="ESTOYDENTRO" value="estoy en" />
+	<item name="ESTOYBIEN" value="estoy bien" />
+	<item name="LOSIENTO" value="lo siento" />
+	<item name="ESTOYHABLANDO" value="estoy hablando" />
+	<item name="ESTOYCANSADO" value="estoy cansado" />
+	<item name=" DES CARGAR" value="descargar" />
+	<item name="RECORDA" value="recordar" />
+	<item name="QEU" value="que" />
+	<item name="TOLLERVY" value="Tollervey" />
+	<item name=" TU EREH" value="tu eres" />
+	<item name=" TU" value="tu" />
+	<item name=" TUR" value="tu" />
+	<item name=" ERE TU" value="eres tu" />
+	<item name=" ERS TU" value="eres tu" />
+	<item name=" {" value="comienzascript" />
+	<item name=" }" value="finalizascript" />
+	<item name=" \" value=" " />
+	<item name=":0" value="0" />
+	<item name=": 0" value="0" />
+	<item name=":1" value="1" />
+	<item name=": 1" value="1" />
+	<item name=":2" value="2" />
+	<item name=": 2" value="2" />
+	<item name=":3" value="3" />
+	<item name=": 3" value="3" />
+	<item name=":4" value="4" />
+	<item name=": 4" value="4" />
+	<item name=":5" value="5" />
+	<item name=": 5" value="5" />
+	<item name=".0" value=" punto 0" />
+	<item name=".1" value=" punto 1" />
+	<item name=".2" value=" punto 3" />
+	<item name=".4" value=" punto 4" />
+	<item name=".5" value=" punto 5" />
+	<item name=".6" value=" punto 6" />
+	<item name=".7" value=" punto 7" />
+	<item name=".8" value=" punto 8" />
+	<item name=".9" value=" punto 9" />
+	<item name="DR." value="Dr" />
+	<item name=" DR ." value="Dr" />
+	<item name="MR." value="Sr" />
+	<item name="MRS." value="Sra" />
+	<item name="ST." value="St" />
+	<item name="WWW." value="www punto" />
+	<item name="BOTSPOT." value="botspot punto" />
+	<item name="AMUSED.COM" value="amused punto com" />
+	<item name="WHATIS." value="whatis punto" />
+	<item name=".COM" value="punto com" />
+	<item name=".NET" value="punto net" />
+	<item name=".ORG" value="punto org" />
+	<item name=".ORG.UK" value="punto org punto uk" />
+	<item name=".CO.UK" value="punto co punto uk" />
+	<item name=".EDU" value="punto edu" />
+	<item name=".UK" value="punto uk" />
+	<item name=".JP" value="punto jp" />
+	<item name=".AU" value="punto au" />
+	<item name=".CO" value="punto co" />
+	<item name=".AC" value="punto ac" />
+	<item name="O.K." value="ok" />
+	<item name=" O. K. " value="ok" />
+	<item name="L.L." value="l l" />
+	<item name="P.S." value="ps" />
+	<item name=" U S A" value="EE. UU." />
+	<item name=" U. S. A. " value="EE. UU." />
+	<item name="U.S.A." value="EE. UU." />
+	<item name="U.S." value="EE. UU." />
+	<item name="PH.D" value="PhD" />
+	<item name=" A. " value="un " />
+	<item name=" B. " value="b " />
+	<item name=" C. " value="c " />
+	<item name=" D. " value="d " />
+	<item name=" E. " value="e " />
+	<item name=" F. " value="f " />
+	<item name=" G. " value="g " />
+	<item name=" H. " value="h " />
+	<item name=" I. " value="i " />
+	<item name=" J. " value="j " />
+	<item name=" K. " value="k " />
+	<item name=" L. " value="l " />
+	<item name=" M. " value="m " />
+	<item name=" N. " value="n " />
+	<item name=" P. " value="p " />
+	<item name=" O. " value="o " />
+	<item name=" Q. " value="q " />
+	<item name=" R. " value="r " />
+	<item name=" S. " value="s " />
+	<item name=" T. " value="t " />
+	<item name=" U. " value="u " />
+	<item name=" V. " value="v " />
+	<item name=" X. " value="x " />
+	<item name=" Y. " value="y " />
+	<item name=" W. " value="w " />
+	<item name=" Z. " value="z " />
+	<item name=".JAR" value="jar" />
+	<item name=".ZIP" value="zip" />
+	<item name=", PERO " value=". " />
+	<item name=", Y " value=". " />
+	<item name=",PERO " value=". " />
+	<item name=",Y " value=". " />
+	<item name="  PERO " value=". " />
+	<item name="  Y " value=". " />
+	<item name=", YO " value=". yo " />
+	<item name=", TU " value=". tu " />
+	<item name=",YO " value=". yo " />
+	<item name=",YOU " value=". tu " />
+	<item name=", QUE " value=". que " />
+	<item name=",QUE " value=". que " />
+	<item name=", HACER " value=". hacer " />
+	<item name=",HACER " value=". hacer " />
+</root>

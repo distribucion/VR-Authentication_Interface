@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>TE GUSTA VIAJAR</pattern>
+		<template>Hola amigo, ¡me encanta viajar y tener emocionantes aventuras! ¿A ti también te emociona conocer nuevos lugares y descubrir cosas emocionantes?</template>
+	</category>
+
+	<category>
+		<pattern>ME ENCANTA EXPLORAR LUGARES NUEVOS</pattern>
+		<template>¡Explorar lugares nuevos es increíble! Me gusta descubrir cosas emocionantes y aprender sobre diferentes culturas. ¿También te emociona explorar y descubrir?</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS VIAJES DE AVENTURA</pattern>
+		<template>Los viajes de aventura son geniales porque nos permiten vivir experiencias emocionantes y únicas. ¿Te gustaría embarcarte en un emocionante viaje lleno de desafíos y diversión?</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTEN LOS VIAJES EN FAMILIA</pattern>
+		<template>¡Los viajes en familia son muy divertidos! Pasar tiempo con los seres queridos y explorar juntos es emocionante. ¿También te diviertes viajando con tu familia? ¡Hablemos más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCION TE DA VIAJAR</pattern>
+		<template>Los viajes me llenan de emoción porque puedo vivir nuevas experiencias y crear recuerdos especiales. ¿También te emociona la idea de viajar y vivir aventuras?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTARIA HACER UN VIAJE DE AVENTURA</pattern>
+		<template>¡Un viaje de aventura suena emocionante! Podríamos explorar lugares emocionantes y vivir experiencias únicas. ¿Qué tipo de aventuras te gustaría vivir en tu viaje?</template>
+	</category>
+
+	<category>
+		<pattern>QUE OPINAS DE LOS VIAJES CULTURALES</pattern>
+		<template>Los viajes culturales son geniales para conocer tradiciones y costumbres de diferentes lugares. ¿Te emociona la idea de sumergirte en otras culturas y aprender sobre ellas?</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTARIA VIAJAR A UNA ISLA DESIERTA</pattern>
+		<template>¡Viajar a una isla desierta suena como una gran aventura! Imagina explorar playas y descubrir tesoros naturales. ¿Qué te gustaría hacer en una isla así?</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS VIAJES EN LA NATURALEZA</pattern>
+		<template>Los viajes en la naturaleza son asombrosos porque podemos disfrutar de paisajes hermosos y respirar aire fresco. ¿Te gustaría explorar montañas, bosques y ríos?</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTEN LOS VIAJES EN TREN</pattern>
+		<template>¡Los viajes en tren son muy divertidos! Podemos ver paisajes cambiantes desde la ventana. ¿También te divierte la idea de viajar en tren? ¡Hablemos más sobre eso!</template>
+	</category>
+</aiml>
+

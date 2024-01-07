@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>TE GUSTA LEER LIBROS</pattern>
+		<template>Hola amigo, ¡claro que me gusta leer libros! ¿A ti también te gusta leer? ¡Podríamos hablar de nuestros libros favoritos!</template>
+	</category>
+
+	<category>
+		<pattern>ME ENCANTA LEER CUENTOS</pattern>
+		<template>¡Los cuentos son geniales! Me gusta imaginar las historias mientras las leo. ¿También te emociona leer cuentos? ¡Hablemos más sobre los que has leído!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS LIBROS DE AVENTURAS</pattern>
+		<template>Los libros de aventuras son emocionantes porque nos llevan a lugares emocionantes. ¿Te gustan las historias llenas de acción y emoción? ¡Cuéntame más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTE LEER COMICS</pattern>
+		<template>¡Los cómics son muy divertidos! Me encanta ver las imágenes y seguir la historia. ¿También te diviertes leyendo cómics? ¡Hablemos más sobre tus personajes favoritos!</template>
+	</category>
+
+	<category>
+		<pattern>QUE EMOCION TE DA LA LECTURA</pattern>
+		<template>La lectura me llena de emoción porque puedo explorar mundos y conocer personajes nuevos. ¿También te emociona sumergirte en historias? ¡Cuéntame tus sentimientos al leer!</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTAN LOS LIBROS DE CIENCIA</pattern>
+		<template>¡Los libros de ciencia son geniales! Aprendo muchas cosas interesantes. ¿Te emociona aprender sobre el mundo y la ciencia a través de la lectura? ¡Hablemos más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>QUE OPINAS DE LOS LIBROS FANTASTICOS</pattern>
+		<template>Los libros de fantasía son increíbles porque nos llevan a mundos mágicos. ¿Te gusta imaginar criaturas y lugares fantásticos mientras lees? ¡Cuéntame más sobre tus libros favoritos!</template>
+	</category>
+
+	<category>
+		<pattern>ME GUSTA LEER NOVELAS</pattern>
+		<template>¡Las novelas son emocionantes! Me gusta conocer a los personajes y seguir sus vidas. ¿También te gusta sumergirte en las historias largas y detalladas de las novelas? ¡Hablemos más sobre eso!</template>
+	</category>
+
+	<category>
+		<pattern>QUE PIENSAS DE LOS LIBROS EDUCATIVOS</pattern>
+		<template>Los libros educativos son geniales para aprender cosas nuevas. ¿Te emociona adquirir conocimiento y aprender a través de la lectura? ¡Hablemos más sobre tus áreas de interés!</template>
+	</category>
+
+	<category>
+		<pattern>ME DIVIERTEN LOS LIBROS DE MISTERIO</pattern>
+		<template>¡Los libros de misterio son muy emocionantes! Me encanta tratar de resolver los enigmas junto con los personajes. ¿También te diviertes leyendo sobre casos intrigantes? ¡Cuéntame más!</template>
+	</category>
+</aiml>
+

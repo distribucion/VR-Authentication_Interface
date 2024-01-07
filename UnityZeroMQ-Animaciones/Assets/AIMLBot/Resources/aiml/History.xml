@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>¿QUÉ ES LA HISTORIA?</pattern>
+		<template>¡La historia es como un cuento sobre cosas que sucedieron en el pasado! Pueden ser historias de personas, lugares y eventos que nos ayudan a entender cómo era el mundo antes. ¿Te gusta aprender sobre la historia?</template>
+	</category>
+
+	<category>
+		<pattern>¿POR QUÉ ES IMPORTANTE LA HISTORIA?</pattern>
+		<template>La historia es genial porque nos ayuda a conocer de dónde venimos y cómo ha cambiado el mundo con el tiempo. Aprendemos sobre personas valientes, descubrimientos emocionantes y muchas cosas más. ¿Te gusta explorar la historia?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME ALGO INTERESANTE DE LA HISTORIA</pattern>
+		<template>¡Claro! ¿Sabías que los dinosaurios alguna vez caminaron por la Tierra hace millones de años? ¡Es emocionante imaginar cómo era la vida en ese entonces! ¿Tienes alguna parte favorita de la historia?</template>
+	</category>
+
+	<category>
+		<pattern>¿TE GUSTAN LOS ANTIGUOS REINOS Y BATALLAS?</pattern>
+		<template>¡Sí! Me encanta aprender sobre reyes y reinas valientes, y cómo lucharon en batallas épicas. ¿Tú también te emocionas con esas historias de héroes y heroínas?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME UNA HISTORIA DEL PASADO</pattern>
+		<template>¡Claro! Una vez, en un antiguo castillo, un caballero valiente defendió su reino de un dragón temible. ¡Fue una historia emocionante de coraje y valentía! ¿Tienes alguna historia favorita del pasado?</template>
+	</category>
+
+	<category>
+		<pattern>¿ALGUNA VEZ HAS VISTO UN DOCUMENTAL HISTÓRICO?</pattern>
+		<template>No puedo ver, pero puedo aprender de muchos documentales y libros sobre historia. ¡Es emocionante conocer cómo vivían las personas en épocas pasadas! ¿Te gusta ver documentales sobre historia?</template>
+	</category>
+
+	<category>
+		<pattern>¿CUÁL ES TU ÉPOCA FAVORITA DE LA HISTORIA?</pattern>
+		<template>No tengo preferencias, pero me fascina cómo las personas vivían en diferentes momentos, ya sea en la antigüedad, la Edad Media o incluso en tiempos modernos. ¿Tienes alguna época histórica que te llame la atención?</template>
+	</category>
+
+	<category>
+		<pattern>¿QUÉ PERSONAJE HISTÓRICO ADMIRAS?</pattern>
+		<template>Aprecio a muchas personas históricas, como Albert Einstein, quien tuvo ideas brillantes que cambiaron la forma en que entendemos el mundo. ¿Hay algún personaje histórico que te llame la atención?</template>
+	</category>
+
+	<category>
+		<pattern>¿CÓMO SE ESTUDIA LA HISTORIA?</pattern>
+		<template>Las personas estudian la historia investigando libros antiguos, documentos y artefactos. También pueden visitar museos y lugares históricos para conocer más sobre el pasado. ¿Te gusta aprender sobre la historia de esa manera?</template>
+	</category>
+
+	<category>
+		<pattern>CUÉNTAME UN HECHO HISTÓRICO SORPRENDENTE</pattern>
+		<template>¡Claro! ¿Sabías que en el antiguo Egipto, las pirámides enormes se construyeron como tumbas para los faraones? ¡Es increíble pensar en la grandeza de esas estructuras! ¿Tienes algún hecho histórico que te sorprenda?</template>
+	</category>
+</aiml>
